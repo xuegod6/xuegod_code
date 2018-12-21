@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset = "UTF-8">
+        <title>Title</title>
+        <script src = "/js/jquery-3.1.1.min.js"></script>
+        <script src = "/js/Chart.min.js"></script>
+    </head>
+    <body>
+        <!--定义画布-->
+        <canvas id = "panel" height = "330px" width = "500px">
+
+        </canvas>
+        <script>
+            $(
+                function () {
+//                  获取画布
+                    var can = $("#panel").get(0).getContext("2d")
+//                  定义图表数据
+                    var canData = {
+                        // x轴数据
+                        labels: ["a","b","c","d","e","f"],
+                        // y轴数据
+                        datasets : [
+                            {
+                                fillColor:"rgba(255,255,255,0.2)",
+                                strokeColor:"rgba(0,255,0,1)",
+                                 // y轴数据
+                                data:[1,3,2,1,5,4]
+                            }
+                        ]
+                    }
+//                  绘制线条
+                    var line = new Chart(can).Line(canData)
+                    var int = setInterval(
+                            function () {
+                                $.ajax(
+                                    {
+                                        type : "get",
+                                        url : "/cgi-bin/send_data.py",
+                                        data : "jsonData",
+                                        success: function (data) {
+                                            // 将ajax请求的点添加到线条上
+                                            line.addData(
+                                                    [data["data"]],
+                                                    data["time"]
+                                            );
+                                            // 删除最前面的点
+                                            var len = line.datasets[0].points.length;
+                                            if(len > 8){
+                                                line.removeData()
+                                            }
+                                        },
+                                        error: function (error) {
+                                            console.log(error)
+                                        }
+                                    }
+                                )
+                            },1000
+                    )
+                }
+            )
+        </script>
+    </body>
+</html>
