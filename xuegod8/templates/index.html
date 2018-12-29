@@ -20,22 +20,21 @@
             username = $('#username').val();
             password = $('#password').val();
             var csrftoken = $('input[name="csrfmiddlewaretoken"]').val();
-            alert(username);
             $.ajax({
                 url:'/register/',
-                type:'POST',
-                asnyc:true,
+                type:"POST",
+                async:true,
                 data:{'username':username,'password':password},
                 dataType:'json',
                 success:function (data) {
                     console.log(data)
                 },
-                beforeSend:function (xhr,settings) {
-                    xhr.setRequestHeader('X-CSRFToken',csrftoken)
-                },
                 error:function (data) {
                     console.log(data)
                 },
+                beforeSend:function (xhr,settings) {
+                    xhr.setRequestHeader('X-CSRFToken',csrftoken)
+                }
             })
         })
     })
