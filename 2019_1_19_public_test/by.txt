@@ -1,0 +1,10 @@
+人生苦短，我学python人生苦短，我学python
+# Linux 默认的编码是utf-8
+# python我们操作通常也用utf-8
+# 但是windows用的是gbk
+# Linux 默认的编码是utf-8
+# python我们操作通常也用utf-8
+# 但是windows用的是gbk
+# Linux 默认的编码是utf-8
+# python我们操作通常也用utf-8
+# 但是windows用的是gbk

@@ -129,19 +129,14 @@ def get_image(keywords):
     send_data = {}
 
     for line in data_str.splitlines():
-        # print(line)
         line_data = line.split(': ')
-        # print(line_data)
         if len(line_data) == 2:
             key, value = line_data
             if key and value:
                 send_data[key] = value
-            # print(key)
-    # print(send_data)
     send_data['word'] = send_data['queryword'] = keywords
     response = requests.get(url=url, headers=headers, params=send_data)
-    # print(response)
-    # print(response.text)
+
     content = response.json()['data']
     for index, src in enumerate(content):
         # pass

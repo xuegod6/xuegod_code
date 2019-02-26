@@ -5,7 +5,6 @@
 # @Software: PyCharm
 def outer(info):
     def Dec(func):
-
         def inner(name):
             print('info is %s'%info)
             func(name)

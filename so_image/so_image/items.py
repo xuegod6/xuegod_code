@@ -10,6 +10,5 @@ import scrapy
 
 class SoImageItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
     image_urls = scrapy.Field()
     pass

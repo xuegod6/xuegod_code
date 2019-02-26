@@ -3,9 +3,11 @@
 # @Author  : for 
 # @File    : 07_queue_test.py
 # @Software: PyCharm
-import queue
-Q = queue.Queue(10)
-Q.put(1)
-print(Q.empty())
-data = Q.get()
-print(data)
+a = 'abdsafegfagaweggadge'
+
+a_dict = {}
+b = set(a)
+for i in b:
+    count_a = a.count(i)
+    a_dict[i] = count_a
+print(a_dict)

@@ -19,3 +19,5 @@ def register(request):
     return render(request,'index.html')
 
     # return JsonResponse({'a':1})
+def test(request):
+    return render(request,'test.html')

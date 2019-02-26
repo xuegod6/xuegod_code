@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册登录</title>
+    <script src="https://cdn.bootcss.com/jquery/2.0.0/jquery.min.js"></script>
+</head>
+<body>
+<div>
+    <h1>用户注册登录</h1>
+    {% csrf_token %}
+    <div><span>用户名：</span><input id='username' type="text"></div>
+    <div><span>密码：</span><input id='password' type="password"></div>
+    <button id="zc">注册</button><button id="login">登录</button>
+</div>
+</body>
+</html>

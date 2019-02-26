@@ -23,3 +23,6 @@ def register(request):
                 createUser.save()
                 return JsonResponse({'status':200})
     return render(request,'index.html')
+
+def test(request):
+    return  render(request,'test.html')

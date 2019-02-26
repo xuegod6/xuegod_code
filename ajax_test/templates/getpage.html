@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src = "/static/jq/jquery-3.1.1.min.js"></script> <!--导入外部的jq文件-->
+</head>
+<body>
+<input id = "username" type = "text"><!--用户名称文本框-->
+<button id = "submit" onclick = "getData()">
+    提交
+</button><!--提交按钮-->
+<span id = "errorMessage" style = "color: red;"></span> <!--提示文本-->
+<script>
+    function getData() {
+        var name = $("#username").val();
+        console.log(name);
+        if(name){
+            $.ajax(
+                {
+                    url: "/sendpage/?username="+name,
+                    type: "get",
+                    data: "",
+                    success: function(data){
+                        console.log(data);
+                        $("#errorMessage").text(data["data"])
+                    },
+                    error: function(error){
+                        console.log(error)
+                    }
+                }
+            )
+        }else{
+            $("#errorMessage").text("提交内容不可以为空")
+        }
+    }
+</script>
+</body>
+</html>

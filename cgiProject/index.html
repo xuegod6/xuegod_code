@@ -1,65 +1,28 @@
 <!DOCTYPE html>
-<html lang = "en">
-    <head>
-        <meta charset = "UTF-8">
-        <title>Title</title>
-        <script src = "/js/jquery-3.1.1.min.js"></script>
-        <script src = "/js/Chart.min.js"></script>
-    </head>
-    <body>
-        <!--ÂÆö‰πâÁîªÂ∏É-->
-        <canvas id = "panel" height = "330px" width = "500px">
-
-        </canvas>
-        <script>
-            $(
-                function () {
-//                  Ëé∑ÂèñÁîªÂ∏É
-                    var can = $("#panel").get(0).getContext("2d")
-//                  ÂÆö‰πâÂõæË°®Êï∞ÊçÆ
-                    var canData = {
-                        // xËΩ¥Êï∞ÊçÆ
-                        labels: ["a","b","c","d","e","f"],
-                        // yËΩ¥Êï∞ÊçÆ
-                        datasets : [
-                            {
-                                fillColor:"rgba(255,255,255,0.2)",
-                                strokeColor:"rgba(0,255,0,1)",
-                                 // yËΩ¥Êï∞ÊçÆ
-                                data:[1,3,2,1,5,4]
-                            }
-                        ]
-                    }
-//                  ÁªòÂà∂Á∫øÊù°
-                    var line = new Chart(can).Line(canData)
-                    var int = setInterval(
-                            function () {
-                                $.ajax(
-                                    {
-                                        type : "get",
-                                        url : "/cgi-bin/send_data.py",
-                                        data : "jsonData",
-                                        success: function (data) {
-                                            // Â∞ÜajaxËØ∑Ê±ÇÁöÑÁÇπÊ∑ªÂä†Âà∞Á∫øÊù°‰∏ä
-                                            line.addData(
-                                                    [data["data"]],
-                                                    data["time"]
-                                            );
-                                            // Âà†Èô§ÊúÄÂâçÈù¢ÁöÑÁÇπ
-                                            var len = line.datasets[0].points.length;
-                                            if(len > 8){
-                                                line.removeData()
-                                            }
-                                        },
-                                        error: function (error) {
-                                            console.log(error)
-                                        }
-                                    }
-                                )
-                            },1000
-                    )
-                }
-            )
-        </script>
-    </body>
+<html>
+   <head>
+       <meta http-equiv="Content-Type" content="text/html; charset=gbk">
+       <title> Python-CGIHTTPServer π”√ æ¿˝ </title>
+       <meta name="author" content="Haiyu">
+       <center><h1> Python-CGIHTTPServer π”√ æ¿˝ </h1></center>
+   </head>
+   <hr style="height:5px;border:none;border-top:5px ridge green;" />
+   <body>
+       <br/>
+       <center><h2>º∆À„‘≤µƒ÷‹≥§</h2></center>
+       <center>
+       <p>«Î ‰»Î‘≤µƒ∞Îæ∂≥§∂».</p>
+       <br/>
+       <form action="cgi-bin/c_length.sh" method="post" enctype="text/plain" target="_blank">
+           radius:<input type="text" id="radius" name="radius" value=""/>
+           <input type="submit" id="c_length" name="c_length" value="º∆À„÷‹≥§">
+       </form>
+       </center>
+       <br/>
+       <br/>
+       <br/>
+   </body>
+   <hr style="height:5px;border:none;border-top:5px ridge green;" />
+   <br/>
+   <br/>
 </html>

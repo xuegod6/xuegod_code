@@ -4,17 +4,6 @@
     <list default="true" id="047a59d3-e0df-4397-b381-dbf06ff41071" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../1_4_for_while_test/07_iter_test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../1_4_for_while_test/07_yiele_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/2019_1_10_public_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_360_spider_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_baidu_spider_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_bilibili_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_360_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_baidu_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2019_1_9_public_test/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2019_1_9_public_test/01_iter_test.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../2019_1_9_public_test/02_yield_test.py" afterDir="false" />
@@ -1413,8 +1402,10 @@
     <session id="-1719692435">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -1433,17 +1424,19 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="py" value="1167" />
+          <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="PLAIN_TEXT" value="33" />
           <entry key="Python" value="1167" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05_baidu_test.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -1459,7 +1452,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03_bilibili_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="1425">
               <caret line="76" selection-start-line="76" selection-start-column="2" selection-end-line="76" selection-end-column="16" />
               <folding>
                 <element signature="e#120#135#0" expanded="true" />
@@ -1479,6 +1472,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -1499,8 +1498,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="283" />
-    <option name="y" value="85" />
+    <option name="x" value="147" />
+    <option name="y" value="40" />
     <option name="width" value="1083" />
     <option name="height" value="653" />
   </component>
@@ -1512,6 +1511,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1528,7 +1528,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1688,20 +1687,22 @@
       <option name="presentableId" value="Default" />
       <updated>1547108367850</updated>
     </task>
+    <task id="LOCAL-00001" summary="360_百度图片_哔哩哔哩视频爬虫">
+      <created>1547174256760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547174256760</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1518" y="130" width="1083" height="653" extended-state="0" />
+    <frame x="147" y="40" width="1083" height="653" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21016617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21407625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3025048" />
@@ -1709,11 +1710,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -1745,13 +1752,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="360_百度图片_哔哩哔哩视频爬虫" />
+    <option name="LAST_COMMIT_MESSAGE" value="360_百度图片_哔哩哔哩视频爬虫" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/360_image/6e61.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baidu_image/iamge_唯美_7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/360_image/6e61.jpg" />
+    <entry file="file://$PROJECT_DIR$/baidu_image/iamge_唯美_7.png" />
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1759,15 +1766,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/360_image/9248.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/360_image/9633.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/360_image/c338.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/360_image/9248.jpg" />
+    <entry file="file://$PROJECT_DIR$/360_image/9633.jpg" />
+    <entry file="file://$PROJECT_DIR$/360_image/c338.jpg" />
     <entry file="file://$PROJECT_DIR$/02_baidu_spider_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -1930,7 +1931,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03_bilibili_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="1425">
           <caret line="76" selection-start-line="76" selection-start-column="2" selection-end-line="76" selection-end-column="16" />
           <folding>
             <element signature="e#120#135#0" expanded="true" />

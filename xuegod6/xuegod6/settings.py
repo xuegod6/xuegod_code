@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'xuegod6.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'xuegod6',
+        'NAME': 'xuegod8',
         'USER':'root',
         'PASSWORD':'123456',
         'HOST':'127.0.0.1',
@@ -106,3 +106,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
 STATIC_URL = '/static/'
+STATICFILES_DIRS=[
+    os.path.join(BASE_DIR,'static')
+]
