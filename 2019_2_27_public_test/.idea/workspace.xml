@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b14c481-c42e-4688-879e-2db1ce421655" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/2019_2_27_public_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_pil_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_pip_test0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_urllib_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_pinjie_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lyf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01971.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01972.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01973.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01974.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01975.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01976.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01983.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01984.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01985.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01986.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01987.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01988.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01989.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01990.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01991.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01992.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01993.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01994.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01995.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01996.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01997.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01998.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC01999.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02001.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02038.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02039.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02040.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02041.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02042.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02043.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02044.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02045.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02046.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02047.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02048.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02049.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02050.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02051.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02052.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02053.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02054.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02055.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02056.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02058.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02059.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02060.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02061.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02062.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02063.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02064.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02065.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02066.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02067.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02068.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02069.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02070.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02071.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02072.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02073.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02074.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02075.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02076.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02077.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02078.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02079.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02080.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02081.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02082.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02083.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02084.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02085.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02086.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02087.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02088.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02089.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02090.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02091.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02092.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02093.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02094.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02095.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02096.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02097.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02098.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02099.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02100.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02101.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02102.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02103.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02104.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02105.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02106.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02107.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02108.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02109.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02110.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02111.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02112.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02113.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02114.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02115.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02116.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02117.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02118.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02119.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02120.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02121.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02122.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02123.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02124.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02125.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02126.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02127.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02128.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02129.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/DSC02130.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_133305.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_144827.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_144921.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_145020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_145245.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_145928.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_150049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_150207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_151357.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_151400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_151452.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_151542.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_151600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_151613.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_151719.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152712.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152721.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152723.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152731.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152739.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152806.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152814.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152823.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152837.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152852.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152856.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152903.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152910.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152931.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_152943.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153037.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153054.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_153356.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154211.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154702.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154838.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154845.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154852.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154935.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_154942.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_155304.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_155313.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_155327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_155841.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_155847.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_160009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_160012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_160016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_160038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_160636.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_160644.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_160814.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_161125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_161224.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_161238.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_163347.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_163423.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_163625.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_163634.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_164937.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_165450.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_165712.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_165717.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_170032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_170704.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_170720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120711_172415.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_101412.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_102209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_102409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_103327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_103506.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_105219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_105708.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_105848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_105859.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_110032.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_110038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_110041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos/IMG_20120712_110050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/02_download_music.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2019_2_26_pub_lic/02_download_music.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/.idea/public_test_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/.idea/public_test_01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/02_reauesgts_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/02_reauesgts_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/render.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/test.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/2019_2_27_public_test$01_pil_test.coverage" NAME="01_pil_test Coverage Results" MODIFIED="1551322692354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2019_2_27_public_test$01_pip_test0.coverage" NAME="01_pip_test0 Coverage Results" MODIFIED="1551337690315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2019_2_27_public_test$test.coverage" NAME="test Coverage Results" MODIFIED="1551322788468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2019_2_27_public_test$02_urllib_test.coverage" NAME="02_urllib_test Coverage Results" MODIFIED="1551338985698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2019_2_27_public_test$03_pinjie_test.coverage" NAME="03_pinjie_test Coverage Results" MODIFIED="1551339158300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1012505425">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="jpg" value="19" />
+          <entry key="png" value="11" />
+          <entry key="py" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="30" />
+          <entry key="Python" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1267" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1267" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+              <folding>
+                <element signature="e#114#145#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_urllib_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+              <folding>
+                <element signature="e#214#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_pinjie_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+              <folding>
+                <element signature="e#123#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01_pil_test.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/01_pip_test0.py" />
+        <option value="$PROJECT_DIR$/02_urllib_test.py" />
+        <option value="$PROJECT_DIR$/03_pinjie_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="262" />
+    <option name="y" value="85" />
+    <option name="width" value="935" />
+    <option name="height" value="645" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2019_2_27_public_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019_2_27_public_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xuegod_code\2019_2_27_public_test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xuegod_code\2019_2_27_public_test" />
+      <recent name="E:\xuegod_code" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.03_pinjie_test">
+    <configuration name="01_pil_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2019_2_27_public_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_pil_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_pip_test0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2019_2_27_public_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_pip_test0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_urllib_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2019_2_27_public_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_urllib_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_pinjie_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2019_2_27_public_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_pinjie_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="2019_2_27_public_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.01_pil_test" />
+      <item itemvalue="Python.01_pip_test0" />
+      <item itemvalue="Python.02_urllib_test" />
+      <item itemvalue="Python.03_pinjie_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.03_pinjie_test" />
+        <item itemvalue="Python.02_urllib_test" />
+        <item itemvalue="Python.01_pip_test0" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.01_pil_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b14c481-c42e-4688-879e-2db1ce421655" name="Default Changelist" comment="" />
+      <created>1551258855934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551258855934</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="262" y="85" width="935" height="645" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18742858" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39921722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32881355" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18742858" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39921722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32881355" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://E:/envn/photo_joint/past3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="16" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newRotateImage_0.5_past3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newRotateImage_0.5_past3.png" />
+    <entry file="file://D:/xuegod/Lib/site-packages/PIL/JpegImagePlugin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="621" selection-start-line="621" selection-end-line="621" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createNevImg_0.5_past3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/23.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_pil_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#120#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/xuegod/Lib/site-packages/rocket/worker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/xuegod/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="2321" column="4" selection-start-line="2321" selection-start-column="4" selection-end-line="2321" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_pip_test0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+          <folding>
+            <element signature="e#601#622#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Peijie.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_urllib_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+          <folding>
+            <element signature="e#214#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lyf.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_pinjie_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding>
+            <element signature="e#123#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding>
+            <element signature="e#114#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
