@@ -31,5 +31,5 @@ try:
     s.sendmail(user,to,msg.as_string())
 except Exception as e:
     print(e)
-
-s.close()
+finally:
+    s.close()

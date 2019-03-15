@@ -71,7 +71,7 @@ class wangyiyun():
 
 if __name__ == '__main__':
     d = wangyiyun()
-    list_id = [2466312782] # 所有你想下的歌单
+    list_id = [310970433] # 所有你想下的歌单
     for id in list_id:
         d.work(id)
 
