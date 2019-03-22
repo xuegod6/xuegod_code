@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
 from scrapy import Selector
-
 from Juejin.items import JuejinItem
 class JuejinSpider(scrapy.Spider):
     name = 'juejin'
@@ -13,7 +12,6 @@ class JuejinSpider(scrapy.Spider):
         else:
             ret = 0
         return ret
-
     def parse(self, response):
         #base_data = response.body_as_unicode()
         select = Selector(response)
@@ -48,7 +46,6 @@ class JuejinSpider(scrapy.Spider):
         # 关注者
         item["followers"] = self.get_default(select.xpath("//div[@class='follow-block block shadow']/a[2]/div[2]/text()").extract())
 
-
         right = select.xpath("//div[@class='stat-block block shadow']/div[2]/div").extract()
         if len(right) == 3:
             item["editer"] = self.get_default(select.xpath("//div[@class='stat-block block shadow']/div[2]/div[1]/span/text()").extract())
@@ -63,7 +60,6 @@ class JuejinSpider(scrapy.Spider):
         item["collections"] = self.get_default(select.xpath("//div[@class='more-block block']/a[1]/div[2]/text()").extract())
         item["tags"] = self.get_default(select.xpath("//div[@class='more-block block']/a[2]/div[2]/text()").extract())
         yield item  # 返回item
-
         list_li = select.xpath("//ul[@class='tag-list']/li")  # 获取所有的关注
         for li in list_li:
             a_link = li.xpath(".//meta[@itemprop='url']/@content").extract()[0] # 获取URL

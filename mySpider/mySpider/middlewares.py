@@ -101,3 +101,12 @@ class MyspiderDownloaderMiddleware(object):
 
     def spider_opened(self, spider):
         spider.logger.info('Spider opened: %s' % spider.name)
+
+#todo: 操作随机User-Agent达到反扒的目的
+from mySpider.settings import USER_AGENT_LIST
+import random
+class RandomUserAgentMiddleware(object):
+    def process_request(self,request,spider):
+        rand_use = random.choice(USER_AGENT_LIST)
+        if rand_use:
+            request.headers.setdefalut('User-Agent',rand_use)

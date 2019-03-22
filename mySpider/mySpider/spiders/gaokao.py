@@ -17,7 +17,7 @@ class GaokaoSpider(scrapy.Spider):
             "X-Requested-With":"XMLHttpRequest"
         }
     def start_requests(self):
-        for page in range(0,7):
+        for page in range(0,27):
             form_data = {
                 'otype': '4',
                 'city':'',

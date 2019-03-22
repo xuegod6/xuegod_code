@@ -23,6 +23,7 @@ def get_item(html):
             stars = item.find("div.course_infos>div", first=True).text
             course_target = item.find(".main>.course_target", first=True).text
             price = item.find(".main>.course_payinfo h4", first=True).text
+            #todo 把它保存为一个字典 想要用json数据进行存储到我的文档里但是字符格式失败
             dict = {
                 "title":title,
                 "href":href,
@@ -32,8 +33,9 @@ def get_item(html):
                 "course_target":course_target,
                 "price":price
             }
-            with open('1.txt','a') as f:
-                f.write(json.dump(dict) + '\n')
+
+            with open('1.txt','a',encoding='utf-8') as f:
+                f.write(title+href+class_time+study_nums+stars+course_target+price+'\n')
 
     else:
         print("数据解析失败")
@@ -41,16 +43,3 @@ def get_item(html):
 if __name__ == '__main__':
     result = asession.run(get_html)
 
-
-
-# def get_content():
-#     session = HTMLSession()
-#     r = session.get(base_url)
-#     print(r.html)
-#     print(r.html.links)#获取所有的链接地址
-#     print(r.html.absolute_links)#获取所有的地址
-#     print(r.html.find('.cList',first=True))
-#     c_list = r.html.find('.cList',first=True)
-#     print(c_list.text)
-if __name__ == '__main__':
-    result = asession.run(get_html)

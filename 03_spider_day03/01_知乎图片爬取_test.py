@@ -7,9 +7,7 @@ import time
 import pymongo
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup as BS
-
-import time
-import requests
+import time,requests
 import re
 #todo 给定mongodb一个ip 和端口
 DATABASE_IP = '127.0.0.1'
@@ -37,7 +35,6 @@ class ZhiHuOne():
             try:
                 with s.get("https://www.zhihu.com/api/v4/questions/292393947/answers?include=comment_count,content,voteup_count,reshipment_settings,is_author,voting,is_thanked,is_nothelp;data[*].mark_infos[*].url;data[*].author.follower_count,badge[*].topics&limit=5&offset={}&sort_by=default".format(self._offset),headers=self.headers,timeout=3) as rep:
                     data =  rep.json()
-
                     if data:
                         collection.insert_many(data["data"])
             except Exception as e:

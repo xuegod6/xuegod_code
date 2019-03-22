@@ -337,3 +337,12 @@ bar.render()
 # pie.add("", ["犯罪", ""], [28, 72], center=[90, 70], radius=[18, 24], label_pos='center', is_label_show=True, label_text_color=None, is_legend_show=True, legend_top="center")
 # pie.show_config()
 # pie.render()
+from pyecharts import Bar
+#bar 就是柱状图
+bar = Bar("我的第一个图表", "这里是副标题")
+#添加图表的配置项
+bar.add("服装", ["衬衫", "羊毛衫", "雪纺衫", "裤子", "高跟鞋", "袜子"], [5, 20, 36, 10, 75, 90],is_more_utils=True)
+#打印所有的配置项
+bar.show_config()
+#自动生成一个html文件 默认的‘index.html
+bar.render()

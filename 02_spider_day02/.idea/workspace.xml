@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e5712f7-e65a-4ef7-a8fa-fe1ba4be23dd" name="Default Changelist" comment="爬虫第二">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_实训课第三天/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/01_isinstance_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/01_ziP_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/02_iter_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/03_bnum_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/imp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/imp/imp_test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/01_smtp_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/02_html_smtp_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/03_image_smtp_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuegod3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuegod4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuegod4/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuegod4/templates/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_51CTO_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_51CTO_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_spider_day03/01_知乎图片爬取_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../03_spider_day03/01_知乎图片爬取_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Juejin/Juejin/spiders/juejin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Juejin/Juejin/spiders/juejin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mySpider/gaokao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/gaokao.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/spiders/gaokao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/spiders/gaokao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/.idea/public_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/01_read_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/01_zip_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/01_zipfile_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/02-requests-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/02_zipfile_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/03-email-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/04-send_emain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/05-email_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/06-send-iamges-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/07-bibao_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/07_zhuanshi_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/08-dec_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/09_bibao_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/10_global_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/11-dec_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/12-paramike-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/13-xlsx-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/14-add_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/15_chart_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/16-xlsx_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/17_sheet-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/18-chart_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/19-shizhan-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/21-pil_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/22-yanzhengma _test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/23-shizan-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/01-difflib-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/02-diff-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/03-pycutl-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/04-rrdtool-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/diff.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/insex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/chart.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/cnword.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/line.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/provinces_gdp.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/provinces_population.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/render.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/aaa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/chart.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/demo.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/demo1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/peijine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/.idea/public_test_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/.idea/public_test_01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/02_reauesgts_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/02_reauesgts_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/render.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/.idea/so_image.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/spiders/images.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/perlin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/three.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/vector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/templates/insex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/templates/test.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/02_spider_day02$05__spider_test.coverage" NAME="05_知乎_spider_test Coverage Results" MODIFIED="1552883476674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_spider_day02$03_51CTO_spider.coverage" NAME="03_51CTO_spider Coverage Results" MODIFIED="1552621684623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_spider_day02$04__test.coverage" NAME="04_慕课网爬取_test Coverage Results" MODIFIED="1552632187996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_spider_day02$01_csdn_spider_test.coverage" NAME="01_csdn_spider_test Coverage Results" MODIFIED="1552551322018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_spider_day02$test.coverage" NAME="test Coverage Results" MODIFIED="1553060021629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_spider_day02$02_seleium_test.coverage" NAME="02_seleium_test Coverage Results" MODIFIED="1552552110557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_spider_day02$05__test.coverage" NAME="05_链接网_test Coverage Results" MODIFIED="1552635343876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="198189754">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gif" value="3" />
+          <entry key="jpg" value="15" />
+          <entry key="log" value="1" />
+          <entry key="py" value="27" />
+          <entry key="txt" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="18" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Python" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="4133" />
+          <entry key="txt" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="Python" value="4133" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-516756811/itertools.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="559" column="42" selection-start-line="559" selection-start-column="42" selection-end-line="559" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>course</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>item</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01_csdn_spider_test.py" />
+        <option value="$PROJECT_DIR$/02_seleium_test.py" />
+        <option value="$PROJECT_DIR$/03_51CTO_spider.py" />
+        <option value="$PROJECT_DIR$/04_慕课网爬取_test.py" />
+        <option value="$PROJECT_DIR$/05_链接网_test.py" />
+        <option value="$PROJECT_DIR$/06_知乎_image_test.py" />
+        <option value="$PROJECT_DIR$/05_知乎_spider_test.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1550" />
+    <option name="y" value="170" />
+    <option name="width" value="906" />
+    <option name="height" value="642" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="02_spider_day02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02_spider_day02" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="03_51CTO_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="02_spider_day02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_51CTO_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_慕课网爬取_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="02_spider_day02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_慕课网爬取_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_知乎_spider_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="02_spider_day02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_知乎_spider_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_链接网_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="02_spider_day02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_链接网_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="02_spider_day02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.03_51CTO_spider" />
+      <item itemvalue="Python.04_慕课网爬取_test" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.05_链接网_test" />
+      <item itemvalue="Python.05_知乎_spider_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.05_知乎_spider_test" />
+        <item itemvalue="Python.05_链接网_test" />
+        <item itemvalue="Python.04_慕课网爬取_test" />
+        <item itemvalue="Python.03_51CTO_spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e5712f7-e65a-4ef7-a8fa-fe1ba4be23dd" name="Default Changelist" comment="" />
+      <created>1552546787268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552546787268</updated>
+    </task>
+    <task id="LOCAL-00001" summary="爬虫第二天">
+      <created>1552621096303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552621096303</updated>
+    </task>
+    <task id="LOCAL-00002" summary="爬虫第二天">
+      <created>1552621134147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552621134147</updated>
+    </task>
+    <task id="LOCAL-00003" summary="爬取知乎，51cto，慕课网课程的数据并保存到MongoDB">
+      <created>1552878223525</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552878223525</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1550" y="170" width="906" height="642" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27423167" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37795275" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3279678" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26950353" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37573385" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3279678" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="爬虫第二天" />
+    <MESSAGE value="爬虫第二" />
+    <MESSAGE value="爬取知乎，51cto，慕课网课程的数据并保存到MongoDB" />
+    <option name="LAST_COMMIT_MESSAGE" value="爬取知乎，51cto，慕课网课程的数据并保存到MongoDB" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Python/Python37/Lib/site-packages/selenium/webdriver/phantomjs/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xxoo/0073ob6Pgy1g12b8w0jhmj30j60wr11l.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/0073ob6Pgy1g128f3nqqfg304y08cu0x.gif" />
+    <entry file="file://$PROJECT_DIR$/xxoo/0073ob6Pgy1g128x8amw0j30u018zu0x.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/72fa6ecfgy1g12afh5disg20hs0hskjl.gif" />
+    <entry file="file://$PROJECT_DIR$/xxoo/006XNEY7gy1fzvmyadu1nj30hs0qo76e.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/006XNEY7gy1g12b8pt4kej30hs0qfq6t.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/0073ob6Pgy1g12a4bl5zxj30j60sr7wh.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/0073ob6Pgy1g12b8mmjx9j30f40l5778.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/0073ob6Pgy1g12805k3kyj30xc05ugmf.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/a22cf71dly1g1260sz0g7j20u01hctgw.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/e87d8f0cly1g117vmrxfpj20u01hce85.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/d9f2e9cagy1g12803pxwdj20xb0jzjv1.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/62306eealy1g12duzfxnfj209q06tt9b.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/7512ee8ely1g1291lentkj21120rsmza.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/690b7bb2gy1g125n94vx9j20u011i44g.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/0073ob6Pgy1g1295n6po4g305809ax6p.gif" />
+    <entry file="file://$PROJECT_DIR$/xxoo/0073ob6Pgy1g129drkteuj30ku0rsgp8.jpg" />
+    <entry file="file://$PROJECT_DIR$/xxoo/0073ob6Pgy1g129qn4v3vj30u01417wi.jpg" />
+    <entry file="file://$PROJECT_DIR$/ghostdriver.log" />
+    <entry file="file://D:/Python/Python37/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="162" column="4" selection-start-line="122" selection-start-column="7" selection-end-line="162" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2086">
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-516756811/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1053" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Python37/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="1525" column="12" lean-forward="true" selection-start-line="1525" selection-start-column="12" selection-end-line="1525" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_链接网_test.py" />
+    <entry file="file://$PROJECT_DIR$/05_知乎_spider_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_慕课网爬取_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-852">
+          <caret line="22" column="5" selection-start-line="22" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_知乎_image_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_51CTO_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_seleium_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_csdn_spider_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-516756811/itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="559" column="42" selection-start-line="559" selection-start-column="42" selection-end-line="559" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

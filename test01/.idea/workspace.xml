@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce9de679-607b-40df-b25c-c20541dd37da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../02_spider_day02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03_实训课第三天/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/01_isinstance_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/01_ziP_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/02_iter_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/03_bnum_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/imp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/imp/imp_test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/test01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_实训课/test02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/01_smtp_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/02_html_smtp_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/03_image_smtp_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_type_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuegod3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuegod4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuegod4/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xuegod4/templates/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_spider_day02/03_51CTO_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../02_spider_day02/03_51CTO_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_spider_day02/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../02_spider_day02/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_spider_day03/01_知乎图片爬取_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../03_spider_day03/01_知乎图片爬取_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Juejin/Juejin/spiders/juejin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Juejin/Juejin/spiders/juejin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mySpider/gaokao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/gaokao.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/spiders/gaokao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/spiders/gaokao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/.idea/public_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/01_read_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/01_zip_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/01_zipfile_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/02-requests-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/02_zipfile_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/03-email-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/04-send_emain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/05-email_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/06-send-iamges-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/07-bibao_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/07_zhuanshi_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/08-dec_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/09_bibao_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/10_global_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/11-dec_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/12-paramike-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/13-xlsx-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/14-add_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/15_chart_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/16-xlsx_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/17_sheet-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/18-chart_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/19-shizhan-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/21-pil_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/22-yanzhengma _test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/23-shizan-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/01-difflib-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/02-diff-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/03-pycutl-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/04-rrdtool-test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/diff.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/insex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/chart.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/cnword.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/image/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/line.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/provinces_gdp.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/provinces_population.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/render.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/aaa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/chart.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/demo.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/demo1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/static/peijine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/.idea/public_test_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/.idea/public_test_01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/02_reauesgts_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/02_reauesgts_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/render.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public_test_01/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/.idea/so_image.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../so_image/so_image/spiders/images.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/perlin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/three.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/vector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/templates/insex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xuegod1/templates/test.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test01$01_type_test.coverage" NAME="01_type_test Coverage Results" MODIFIED="1553074483444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1308574333">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="217" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="217" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01_type_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-516756811/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13176">
+              <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01_type_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1501" />
+    <option name="y" value="104" />
+    <option name="width" value="1033" />
+    <option name="height" value="642" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="01_type_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_type_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01_type_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce9de679-607b-40df-b25c-c20541dd37da" name="Default Changelist" comment="" />
+      <created>1553067320571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553067320571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1501" y="104" width="1033" height="642" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24940899" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4980315" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24940899" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01_type_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-516756811/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13176">
+          <caret line="488" column="4" selection-start-line="488" selection-start-column="4" selection-end-line="488" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

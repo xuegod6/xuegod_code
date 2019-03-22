@@ -72,7 +72,6 @@ for index,src in enumerate(content):
         name = './image/image_%s_%s.png'%('唯美',index)
         try:
             request.urlretrieve(url = img_url,filename=name)
-
         except Exception as e:
             print(e)
 

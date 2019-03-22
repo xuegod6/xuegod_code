@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400ab8e8-2b84-47a4-9b1e-4d1ebe8f53be" name="Default Changelist" comment="" />
+    <list default="true" id="400ab8e8-2b84-47a4-9b1e-4d1ebe8f53be" name="Default Changelist" comment="this is test fabbic">
+      <change beforePath="$PROJECT_DIR$/.idea/public_test_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/public_test_01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_reauesgts_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_reauesgts_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-pyecgar_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/06-pyecgar_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-henanrenhou-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-henanrenhou-test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/render.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,9 +16,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/public_test_01$06_pyecgar_test.coverage" NAME="06-pyecgar_test Coverage Results" MODIFIED="1545207602312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/public_test_01$07_henanrenhou_test.coverage" NAME="07-henanrenhou-test Coverage Results" MODIFIED="1545210780928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/public_test_01$02_reauesgts_test.coverage" NAME="02_reauesgts_test Coverage Results" MODIFIED="1545031664312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/public_test_01$01_reuqests_test.coverage" NAME="01_reuqests_test Coverage Results" MODIFIED="1545025899586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/public_test_01$03_pyechars_test.coverage" NAME="03-pyechars-test Coverage Results" MODIFIED="1545102043646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/public_test_01$08_gongzi_test.coverage" NAME="08-gongzi_test Coverage Results" MODIFIED="1545211512774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/public_test_01$1.coverage" NAME="1 Coverage Results" MODIFIED="1545186837618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/public_test_01$04_requests_test.coverage" NAME="04-requests_test Coverage Results" MODIFIED="1545116546890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/public_test_01$test.coverage" NAME="test Coverage Results" MODIFIED="1545053143686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -19,39 +30,43 @@
     <session id="-886695160">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.25" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="1" />
-          <entry key="html" value="2" />
+          <entry key="csv" value="3" />
+          <entry key="html" value="3" />
           <entry key="png" value="88" />
-          <entry key="py" value="23" />
+          <entry key="py" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="3" />
           <entry key="Image" value="88" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="23" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3411" />
-          <entry key="txt" value="19" />
+          <entry key="py" value="6624" />
+          <entry key="txt" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="3411" />
+          <entry key="PLAIN_TEXT" value="79" />
+          <entry key="Python" value="6624" />
         </counts>
       </usages-collector>
     </session>
@@ -59,23 +74,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-requests_test.py">
+        <entry file="file://$PROJECT_DIR$/09_bar_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="78" column="2" lean-forward="true" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
-              <folding>
-                <element signature="e#121#132#0" expanded="true" />
-                <marker date="1545116546835" expanded="true" signature="205:206" ph="..." />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02_reauesgts_test.py">
+        <entry file="file://$PROJECT_DIR$/10_shizhan_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+            <state relative-caret-position="234">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#120#139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/xuegod/Lib/site-packages/pyecharts/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="151" column="42" selection-start-line="151" selection-start-column="37" selection-end-line="151" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/xuegod/Lib/site-packages/pyecharts/charts/bar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -92,15 +124,26 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/01_reuqests_test.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/03-pyechars-test.py" />
         <option value="$PROJECT_DIR$/04-requests_test.py" />
         <option value="$PROJECT_DIR$/02_reauesgts_test.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/05-fabbic-test.py" />
+        <option value="$PROJECT_DIR$/08-gongzi_test.py" />
+        <option value="$PROJECT_DIR$/07-henanrenhou-test.py" />
+        <option value="$PROJECT_DIR$/06-pyecgar_test.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/09_bar_test.py" />
+        <option value="$PROJECT_DIR$/10_shizhan_test.py" />
       </list>
     </option>
   </component>
@@ -110,21 +153,28 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="142" />
-    <option name="y" value="15" />
-    <option name="width" value="1166" />
-    <option name="height" value="725" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1564" />
+    <option name="y" value="18" />
+    <option name="width" value="1040" />
+    <option name="height" value="700" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="public_test_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="public_test_01" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="public_test_01" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -133,15 +183,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="E:/envn/test/Scripts/django_test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -163,17 +213,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.04-requests_test">
-    <configuration name="近20年全国各省GDP增长率地图.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public_test_01/近20年全国各省GDP增长率地图.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="河南省历年GDP与人口变化曲线.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public_test_01/河南省历年GDP与人口变化曲线.html">
+  <component name="RunManager" selected="JavaScript Debug.render.html">
+    <configuration name="全省人居GDP.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public_test_01/html/全省人居GDP.html">
       <method v="2" />
     </configuration>
     <configuration name="全国各省人均GDP地图.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public_test_01/全国各省人均GDP地图.html">
       <method v="2" />
     </configuration>
-    <configuration name="03-pyechars-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="render.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/public_test_01/render.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="06-pyecgar_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="public_test_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,16 +236,16 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-pyechars-test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06-pyecgar_test.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04-requests_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="09_bar_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="public_test_01" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,9 +258,75 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-requests_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_bar_test.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10_shizhan_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="public_test_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_shizhan_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="public_test_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="public_test_01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -218,17 +334,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.03-pyechars-test" />
-      <item itemvalue="JavaScript Debug.河南省历年GDP与人口变化曲线.html" />
-      <item itemvalue="JavaScript Debug.近20年全国各省GDP增长率地图.html" />
-      <item itemvalue="Python.04-requests_test" />
+      <item itemvalue="JavaScript Debug.全省人居GDP.html" />
+      <item itemvalue="Python.06-pyecgar_test" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="JavaScript Debug.render.html" />
+      <item itemvalue="Python.09_bar_test" />
+      <item itemvalue="Python.10_shizhan_test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04-requests_test" />
-        <item itemvalue="JavaScript Debug.近20年全国各省GDP增长率地图.html" />
-        <item itemvalue="Python.03-pyechars-test" />
-        <item itemvalue="JavaScript Debug.河南省历年GDP与人口变化曲线.html" />
+        <item itemvalue="JavaScript Debug.render.html" />
+        <item itemvalue="Python.10_shizhan_test" />
+        <item itemvalue="Python.09_bar_test" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.06-pyecgar_test" />
       </list>
     </recent_temporary>
   </component>
@@ -306,56 +425,88 @@
       <option name="project" value="LOCAL" />
       <updated>1545126337012</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="this is test fabbic">
+      <created>1545186806168</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1545186806168</updated>
+    </task>
+    <task id="LOCAL-00011" summary="this is test_pyecharts">
+      <created>1545214269260</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1545214269260</updated>
+    </task>
+    <task id="LOCAL-00012" summary="this is pub test">
+      <created>1545270692323</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1545270692323</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="142" y="15" width="1166" height="725" extended-state="0" />
+    <frame x="67" y="56" width="1040" height="700" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18434782" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.28469387" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3289225" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.30016312" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32768363" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.299509" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" auto_hide="true" id="Python Console" order="4" type="SLIDING" weight="0.44026187" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.34715027" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3453888" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.3970588" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
-      <window_info anchor="right" id="SciView" order="2" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.3164557" />
+      <window_info anchor="right" x="0" y="0" width="227" height="465" id="Documentation" order="0" side_tool="true" weight="0.32967034" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15461121" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24712135" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3289225" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32768363" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.30016312" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" auto_hide="true" id="Python Console" order="4" type="SLIDING" visible="true" weight="0.4345719" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.029360967" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3453888" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.3970588" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
-      <window_info anchor="right" id="SciView" order="2" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.3164557" />
+      <window_info anchor="right" x="0" y="0" width="227" height="465" id="Documentation" order="0" side_tool="true" weight="0.32967034" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,205 +523,193 @@
     <MESSAGE value="zewsadffaf" />
     <MESSAGE value="zewsadff" />
     <MESSAGE value="ze" />
-    <option name="LAST_COMMIT_MESSAGE" value="ze" />
+    <MESSAGE value="this is test fabbic" />
+    <MESSAGE value="this is test_pyecharts" />
+    <MESSAGE value="this is pub test" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is pub test" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_20.png">
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_13.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_4.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_6.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_16.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_19.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_15.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_26.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_11.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_10.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_8.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_21.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_29.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_38.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_36.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_55.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_54.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_51.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_49.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_47.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_59.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_32.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_35.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_33.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_37.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_40.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_43.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_41.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_50.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_46.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_45.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://D:/xuegod/Lib/site-packages/tomorrow/__init__.py">
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_57.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_48.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_42.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_34.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_0.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_1.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_3.png" />
+    <entry file="file://$PROJECT_DIR$/image/image_唯美_2.png" />
+    <entry file="file://D:/xuegod/Lib/site-packages/fabric/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://D:/xuegod/Lib/site-packages/tomorrow/tomorrow.py">
+    <entry file="file://$PROJECT_DIR$/02_reauesgts_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="345">
+          <caret line="73" column="60" selection-start-line="73" selection-start-column="60" selection-end-line="73" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-requests_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01_reuqests_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1593">
+        <state relative-caret-position="470">
           <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
-          <folding>
-            <element signature="e#121#132#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/xuegod/Lib/site-packages/pyecharts/charts/scatter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/people_num.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="339" selection-start-line="339" selection-end-line="339" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/河南省历年GDP与人口变化曲线.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-pyechars-test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-          <folding>
-            <element signature="e#121#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/xuegod/Lib/site-packages/pyecharts/charts/line.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="51" column="23" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-317594215/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="2934" selection-start-line="2934" selection-end-line="2934" />
+        <state relative-caret-position="-78">
+          <caret line="2862" column="8" selection-start-line="2862" selection-start-column="8" selection-end-line="2862" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/xuegod/Lib/urllib/request.py">
+    <entry file="file://$PROJECT_DIR$/05-fabbic-test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="173" column="34" selection-start-line="173" selection-start-column="12" selection-end-line="173" selection-end-column="34" />
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_13.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_16.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_19.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_15.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_26.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_11.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_10.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_21.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_29.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_38.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_36.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_55.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_54.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_51.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_49.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_47.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_59.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_57.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_48.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_42.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_34.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-requests_test.py">
+    <entry file="file://$PROJECT_DIR$/08-gongzi_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="78" column="2" lean-forward="true" selection-start-line="78" selection-start-column="2" selection-end-line="78" selection-end-column="2" />
+        <state relative-caret-position="275">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="16" />
           <folding>
-            <element signature="e#121#132#0" expanded="true" />
-            <marker date="1545116546835" expanded="true" signature="205:206" ph="..." />
+            <element signature="e#119#138#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/image_唯美_2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_reauesgts_test.py">
+    <entry file="file://D:/xuegod/Lib/site-packages/numpy/core/fromnumeric.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        <state relative-caret-position="6537">
+          <caret line="2825" column="14" lean-forward="true" selection-start-line="2825" selection-start-column="14" selection-end-line="2825" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/xuegod/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="167" column="35" selection-start-line="167" selection-start-column="35" selection-end-line="167" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/china_gdp.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/render.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06-pyecgar_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="60" column="17" lean-forward="true" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/xuegod/Lib/site-packages/pyecharts/chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="405" column="26" selection-start-line="405" selection-start-column="12" selection-end-line="405" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-henanrenhou-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#124#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="345" column="17" selection-start-line="345" selection-start-column="17" selection-end-line="345" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/xuegod/Lib/site-packages/pyecharts/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="153" column="4" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/xuegod/Lib/site-packages/pyecharts/charts/bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/xuegod/Lib/site-packages/pyecharts/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="151" column="42" selection-start-line="151" selection-start-column="37" selection-end-line="151" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_bar_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_shizhan_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#120#139#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

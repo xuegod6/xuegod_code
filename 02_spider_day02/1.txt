@@ -1,0 +1,100 @@
+��������֮������ʩ�㼼����VXLAN�ȣ�2019��ҵ����ʵս�γ̼���[���繤��ʦ]Web������Ƶ�̳̣�������¼��һ�׻�����ϸ��Web��ȫ��Ƶ�̳̣����簲ȫѵ��Ӫ��Ƶ�γ�(ʹ�õ��Զ˴򿪲鿴����ͼƬ���)����������Centos7-Linux�Ƽ��㼯Ⱥ�ܹ�ʦ����ѧϰMYSQL���Ӹ���ƫ��άȫʵս��Ƶ�̳���ҵ��Bash Shell�ű����ȫʵս��Ƶ�̳�Excel��ҵʵսϵ��6������������������Ƶ�γ̣�������ļ��ģ������н��ҵϵ�пγ�-����������ҵ����ʵս�γ̣��У�[���繤��ʦ]2019���繤��ʦ����CCNA 0����ѧ����1��pass���ԡ��ں����ñʼ���������⡿��ǿ��ʦ��Weblogic�����ŵ���ͨ����һ������ƪWeb��ȫ����֮SRC�ھ������Excel��ҵʵսϵ��4��ʵ������ƪ����Excel��ҵʵսϵ��5���������������⣨�������ļ��ģ���ҵ�����ؾ���+�߿�����ʵս��Ƶ�̡̳����ڡ�Flink���׼�ʵս���£�-2018�����¡����ڡ�Flink���ż�ʵս���ϣ�-2018��������ҵ��Zabbix3.4+Grafana5.1ȫʵս��Ƶ�̳�Redis4.0����+����+��Ⱥƫ��άȫʵս��Ƶ�̳�Filebeat+Redis+ELK6ȫʵս��Ƶ�̳���ҵ��ҵ����Influxdb+Grafanaȫʵս��Ƶ�̳���ҵ��Mongodb���ݿ�ȫʵս��Ƶ�̳̣�NOSQL������������Ƭ��Ⱥ��windows������������ƪ-�ں˰�ȫ��Ƶ�γ̡�����־�����������ʼ��Python����Excel���� - ��1�� ����ƪ��ǿ��ʦ��Weblogic�����ŵ���ͨ���������߼�ƪVMware Horizon 7.6��Ƶ�γ�2019ϵͳ������Ŀ��������ʦȫ����Ƶ���м���������ʦ�γ�Excel��ҵʵս�������������̳�3��SQLƪExcel��ҵʵս�������������̳�1������ƪExcel��ҵʵս�������������̳�2����ʽƪ��Ʒԭ����ƹ��ߡ�ī����ʵս�γ���ս��Ԫ��нJava���������ȫ����Ƶ��һ����ս��н-JAVAϸ����ȫ������ȫ��Axure RP 8.0��Ʒ������Ʒʵս��Ƶ�γ̣�����ƪ��Java�����ݽṹ���㷨������Part 1����ҵ��Docker����ʵս��Ƶ�̳� ���������Linux����+Vimʵս������Ƶ�̳� ����Centos72018��8������RHCE300�ֽⷨ��Ƶ�γ�QQȺ��:7935241312019����Ϣϵͳ��Ŀ����ʦ�������и��ǿ����+���Ѻ����Ƶ�γ�VMware���⻯���������ŵ���ͨ��Ƶ�γ�RHCSA-RHCEģ�⿼�Ի�����ͽⷨ��Ƶ�γ̣�22���⣩QQȺ��793524131RedHat Linux ��ά�������ż�����RHEL 7.5��Ansible+Jenkins�Զ������ӻ���ά��Ƶ�̳���ҵ����ʵս�γ�-���� ������Ͽ��ٶ�λ���Ų�[���繤��ʦ]Mapgis6.7������Ƶ�̳�Openstack Rocky�Զ��������ṩOpenStack���߰��Լ�CEPH ���߰���Ƶ�γ�windows wdm�������򿪷���Ƶ�γ̣����弴�ã�ͼ��Python��Ƶ�̳̣��߼�����ƪ����Ϣ��ȫ����ʦ��Ʒ��Ƶ�̳�CTF֮Web��ȫ���ţ�һ��HTTPЭ����Ƶ�γ���������֮������ʩ�㼼����VXLAN�ȣ�2019��ҵ����ʵս�γ̼���[���繤��ʦ]Web������Ƶ�̳̣�������¼��һ�׻�����ϸ��Web��ȫ��Ƶ�̳̣����簲ȫѵ��Ӫ��Ƶ�γ�(ʹ�õ��Զ˴򿪲鿴����ͼƬ���)����������Centos7-Linux�Ƽ��㼯Ⱥ�ܹ�ʦ����ѧϰMYSQL���Ӹ���ƫ��άȫʵս��Ƶ�̳���ҵ��Bash Shell�ű����ȫʵս��Ƶ�̳�Excel��ҵʵսϵ��6������������������Ƶ�γ̣�������ļ��ģ������н��ҵϵ�пγ�-����������ҵ����ʵս�γ̣��У�[���繤��ʦ]2019���繤��ʦ����CCNA 0����ѧ����1��pass���ԡ��ں����ñʼ���������⡿��ǿ��ʦ��Weblogic�����ŵ���ͨ����һ������ƪWeb��ȫ����֮SRC�ھ������Excel��ҵʵսϵ��4��ʵ������ƪ����Excel��ҵʵսϵ��5���������������⣨�������ļ��ģ���ҵ�����ؾ���+�߿�����ʵս��Ƶ�̡̳����ڡ�Flink���׼�ʵս���£�-2018�����¡����ڡ�Flink���ż�ʵս���ϣ�-2018��������ҵ��Zabbix3.4+Grafana5.1ȫʵս��Ƶ�̳�Redis4.0����+����+��Ⱥƫ��άȫʵս��Ƶ�̳�Filebeat+Redis+ELK6ȫʵս��Ƶ�̳���ҵ��ҵ����Influxdb+Grafanaȫʵս��Ƶ�̳���ҵ��Mongodb���ݿ�ȫʵս��Ƶ�̳̣�NOSQL������������Ƭ��Ⱥ��windows������������ƪ-�ں˰�ȫ��Ƶ�γ̡�����־�����������ʼ��Python����Excel���� - ��1�� ����ƪ��ǿ��ʦ��Weblogic�����ŵ���ͨ���������߼�ƪVMware Horizon 7.6��Ƶ�γ�2019ϵͳ������Ŀ��������ʦȫ����Ƶ���м���������ʦ�γ�Excel��ҵʵս�������������̳�3��SQLƪExcel��ҵʵս�������������̳�1������ƪExcel��ҵʵս�������������̳�2����ʽƪ��Ʒԭ����ƹ��ߡ�ī����ʵս�γ���ս��Ԫ��нJava���������ȫ����Ƶ��һ����ս��н-JAVAϸ����ȫ������ȫ��Axure RP 8.0��Ʒ������Ʒʵս��Ƶ�γ̣�����ƪ��Java�����ݽṹ���㷨������Part 1����ҵ��Docker����ʵս��Ƶ�̳� ���������Linux����+Vimʵս������Ƶ�̳� ����Centos72018��8������RHCE300�ֽⷨ��Ƶ�γ�QQȺ��:7935241312019����Ϣϵͳ��Ŀ����ʦ�������и��ǿ����+���Ѻ����Ƶ�γ�VMware���⻯���������ŵ���ͨ��Ƶ�γ�RHCSA-RHCEģ�⿼�Ի�����ͽⷨ��Ƶ�γ̣�22���⣩QQȺ��793524131RedHat Linux ��ά�������ż�����RHEL 7.5��Ansible+Jenkins�Զ������ӻ���ά��Ƶ�̳���ҵ����ʵս�γ�-���� ������Ͽ��ٶ�λ���Ų�[���繤��ʦ]Mapgis6.7������Ƶ�̳�Openstack Rocky�Զ��������ṩOpenStack���߰��Լ�CEPH ���߰���Ƶ�γ�windows wdm�������򿪷���Ƶ�γ̣����弴�ã�ͼ��Python��Ƶ�̳̣��߼�����ƪ����Ϣ��ȫ����ʦ��Ʒ��Ƶ�̳�CTF֮Web��ȫ���ţ�һ��HTTPЭ����Ƶ�γ�数据中心之基础设施层技术（VXLAN等）2019企业网络实战课程集锦[网络工程师]Web攻防视频教程（致力于录制一套基础详细的Web安全视频教程）网络安全训练营视频课程(使用电脑端打开查看完整图片大纲)持续更新中Centos7-Linux云计算集群架构师基础学习MYSQL主从复制偏运维全实战视频教程企业级Bash Shell脚本编程全实战视频教程Excel企业实战系列6：数据整理类问题视频课程（多表多文件的）迈向高薪企业系列课程-有生命的企业网络实战课程（中）[网络工程师]2019网络工程师入门CCNA 0基础学网络1次pass考试【内含课堂笔记与最新题库】赵强老师：Weblogic从入门到精通：（一）基础篇Web安全测试之SRC挖掘经验分享Excel企业实战系列4：实际问题篇概论Excel企业实战系列5：数据整理类问题（单表单文件的）企业级负载均衡+高可用性实战视频教程【徐葳】Flink进阶及实战（下）-2018年最新【徐葳】Flink入门及实战（上）-2018年最新企业级Zabbix3.4+Grafana5.1全实战视频教程Redis4.0基础+主从+集群偏运维全实战视频教程Filebeat+Redis+ELK6全实战视频教程企业级业务监控Influxdb+Grafana全实战视频教程企业级Mongodb数据库全实战视频教程（NOSQL、副本集、分片集群）windows驱动开发进阶篇-内核安全视频课程【曾贤志】从零基础开始用Python处理Excel数据 - 第1季 基础篇赵强老师：Weblogic从入门到精通：（二）高级篇VMware Horizon 7.6视频课程2019系统集成项目管理工程师全套视频（中级）马军老师课程Excel企业实战与解决方案开发教程3—SQL篇Excel企业实战与解决方案开发教程1—功能篇Excel企业实战与解决方案开发教程2—公式篇产品原型设计工具“墨刀”实战课程挑战万元高薪Java基础到框架全套视频第一部挑战高薪-JAVA细分最全面试题全集Axure RP 8.0产品经理精品实战视频课程（操作篇）Java的数据结构与算法精讲（Part 1）企业级Docker入门实战视频教程 多进程容器Linux入门+Vim实战操作视频教程 基于Centos72018年8月最新RHCE300分解法视频课程QQ群号:7935241312019年信息系统项目管理师（软考中高项）强化班+冲刺押题视频课程VMware虚拟化技术从入门到精通视频课程RHCSA-RHCE模拟考试环境搭建和解法视频课程（22道题）QQ群：793524131RedHat Linux 运维快速入门技术（RHEL 7.5）Ansible+Jenkins自动化可视化运维视频教程企业网络实战课程-终章 网络故障快速定位与排查[网络工程师]Mapgis6.7基础视频教程Openstack Rocky自动化部署提供OpenStack离线包以及CEPH 离线包视频课程windows wdm驱动程序开发视频课程（即插即用）图解Python视频教程（高级进阶篇）信息安全工程师精品视频教程CTF之Web安全入门（一）HTTP协议视频课程数据中心之基础设施层技术（VXLAN等）2019企业网络实战课程集锦[网络工程师]Web攻防视频教程（致力于录制一套基础详细的Web安全视频教程）网络安全训练营视频课程(使用电脑端打开查看完整图片大纲)持续更新中Centos7-Linux云计算集群架构师基础学习MYSQL主从复制偏运维全实战视频教程企业级Bash Shell脚本编程全实战视频教程Excel企业实战系列6：数据整理类问题视频课程（多表多文件的）迈向高薪企业系列课程-有生命的企业网络实战课程（中）[网络工程师]2019网络工程师入门CCNA 0基础学网络1次pass考试【内含课堂笔记与最新题库】赵强老师：Weblogic从入门到精通：（一）基础篇Web安全测试之SRC挖掘经验分享Excel企业实战系列4：实际问题篇概论Excel企业实战系列5：数据整理类问题（单表单文件的）企业级负载均衡+高可用性实战视频教程【徐葳】Flink进阶及实战（下）-2018年最新【徐葳】Flink入门及实战（上）-2018年最新企业级Zabbix3.4+Grafana5.1全实战视频教程Redis4.0基础+主从+集群偏运维全实战视频教程Filebeat+Redis+ELK6全实战视频教程企业级业务监控Influxdb+Grafana全实战视频教程企业级Mongodb数据库全实战视频教程（NOSQL、副本集、分片集群）windows驱动开发进阶篇-内核安全视频课程【曾贤志】从零基础开始用Python处理Excel数据 - 第1季 基础篇赵强老师：Weblogic从入门到精通：（二）高级篇VMware Horizon 7.6视频课程2019系统集成项目管理工程师全套视频（中级）马军老师课程Excel企业实战与解决方案开发教程3—SQL篇Excel企业实战与解决方案开发教程1—功能篇Excel企业实战与解决方案开发教程2—公式篇产品原型设计工具“墨刀”实战课程挑战万元高薪Java基础到框架全套视频第一部挑战高薪-JAVA细分最全面试题全集Axure RP 8.0产品经理精品实战视频课程（操作篇）Java的数据结构与算法精讲（Part 1）企业级Docker入门实战视频教程 多进程容器Linux入门+Vim实战操作视频教程 基于Centos72018年8月最新RHCE300分解法视频课程QQ群号:7935241312019年信息系统项目管理师（软考中高项）强化班+冲刺押题视频课程VMware虚拟化技术从入门到精通视频课程RHCSA-RHCE模拟考试环境搭建和解法视频课程（22道题）QQ群：793524131RedHat Linux 运维快速入门技术（RHEL 7.5）Ansible+Jenkins自动化可视化运维视频教程企业网络实战课程-终章 网络故障快速定位与排查[网络工程师]Mapgis6.7基础视频教程Openstack Rocky自动化部署提供OpenStack离线包以及CEPH 离线包视频课程windows wdm驱动程序开发视频课程（即插即用）图解Python视频教程（高级进阶篇）信息安全工程师精品视频教程CTF之Web安全入门（一）HTTP协议视频课程数据中心之基础设施层技术（VXLAN等）https://edu.51cto.com/course/16980.html45课时1363掌握云数据中心基础实施层相关核心技术¥ 149
+2019企业网络实战课程集锦[网络工程师]https://edu.51cto.com/course/16787.html120课时32471.帮助学员快速定位网络问题；2.强化学员的知识体系3.提高学员的实战能力¥ 1199
+Web攻防视频教程（致力于录制一套基础详细的Web安全视频教程）https://edu.51cto.com/course/14850.html143课时18721针对Web攻防展开介绍技术细节，讲解信息收集、Web脚本漏洞（SQL、XSS、SSRF、CSRF、命令执行等）。充分讲解一套完整充实的Web攻防课程，让学员知其然，也要知其所以然。学习QQ群：256572159 加入需验证51cto账号名称，否则不予通过。¥ 559
+网络安全训练营视频课程(使用电脑端打开查看完整图片大纲)持续更新中https://edu.51cto.com/course/16017.html90课时6212从零基础快速入门网路安全，一套课程带你掌握网络安全技术。侧重实际操作。¥ 479
+Centos7-Linux云计算集群架构师基础学习https://edu.51cto.com/course/14228.html99课时37751通过学习本课程，可以掌握 ：1、 让0基础学员能够掌握Linux技术，实现Linux 操作系统管理入门到精通； 2、 完全涵盖RHCE的知识点，同时还可以获得实际的企业工作经验；3、 让有基础的学员可以学会正则表达式，脚本编写升级为中级运维。¥ 238
+MYSQL主从复制偏运维全实战视频教程https://edu.51cto.com/course/15146.html12课时10257MYSQL主从复制是高级运维工程师、数据库管理员必备的知识，本课程通过实战让学员轻松掌握MYSQL主从复制的知识。¥ 39
+企业级Bash Shell脚本编程全实战视频教程https://edu.51cto.com/course/15965.html34课时4513高级运维人员必须掌握的知识：Bash Shell语法、正则表达式、三剑客¥ 47
+Excel企业实战系列6：数据整理类问题视频课程（多表多文件的）https://edu.51cto.com/course/15219.html15课时3263能独立解决企业工作中的各种Excel数据整理类问题（多表多文件的）¥ 119
+迈向高薪企业系列课程-有生命的企业网络实战课程（中）[网络工程师]https://edu.51cto.com/course/15719.html25课时6041.帮助学员认清学习网络的价值；2.强化学员的知识体系3.提高学员的实战能力，为获得企业高薪而奋斗¥ 318
+2019网络工程师入门CCNA 0基础学网络1次pass考试【内含课堂笔记与最新题库】https://edu.51cto.com/course/14847.html282课时62992新任帮主新版CCNA课程，旨在帮助每一位学员轻松入门IT网络之路，提升自身技能，一次PASS CCNA考试之路。¥ 799
+赵强老师：Weblogic从入门到精通：（一）基础篇https://edu.51cto.com/course/8193.html31课时20367本课程将向 WebLogic管理员培训安装和配置 Oracle WebLogic Server 11g。将详细介绍Weblogic Server的体系结构和组成,为后续继续学习Weblogic Server的高级管理课程奠定基础。¥ 127
+Web安全测试之SRC挖掘经验分享https://edu.51cto.com/course/16776.html24课时710具备web渗透测试工程师的工作水平； 能够挖掘各家SRC应急响应中心漏洞，凭借挖漏洞月收入过万。¥ 1600
+Excel企业实战系列4：实际问题篇概论https://edu.51cto.com/course/14542.html8课时20685掌握解决所有Excel问题的通用方法并在实际案例中理解这一方法；理解为什么对Excel的学习应按问题划分而不要按部门划分这一观点¥ 55
+Excel企业实战系列5：数据整理类问题（单表单文件的）https://edu.51cto.com/course/14937.html23课时9047能独立解决企业工作中的各种Excel数据整理类问题（单表单文件的）¥ 79
+企业级负载均衡+高可用性实战视频教程https://edu.51cto.com/course/16363.html23课时4027通过实战让学员轻松掌握负载均衡+高可用性的部署。¥ 39
+【徐葳】Flink进阶及实战（下）-2018年最新https://edu.51cto.com/course/15835.html56课时38621《Flink入门及实战》课程主要讲述了Flink实时框架的基本操作使用以及案例实战开发。¥ 287
+【徐葳】Flink入门及实战（上）-2018年最新https://edu.51cto.com/course/15285.html17课时24259《Flink入门及实战》课程主要讲述了Flink实时框架的基本操作使用以及案例实战开发。通过本课程的教学，使学生既能学习Flink的理论知识，也能掌握Flink的实战内容。为后期工作中的实时处理业务提供多一种技术选择。¥ 47
+企业级Zabbix3.4+Grafana5.1全实战视频教程https://edu.51cto.com/course/13444.html28课时41538本课程基于Centos7系统，从LNMP的源码安装开始教学，一步步的搭建起Zabbix监控系统。搭建完成后，实战了Zabbix邮件、微信、钉钉告警，使用自定义脚本监控LNMP各组件的运行情况。最后实战了Zabbix的难点部分：自动发现监控Mysql、JMX监控TOMCAT、分布式监控、主机自动注册。¥ 119
+Redis4.0基础+主从+集群偏运维全实战视频教程https://edu.51cto.com/course/13809.html20课时17583本课程基于Centos7系统，讲解了Redis运维中比较难的操作，让学员能够轻松掌握Redis的运维操作。讲解的概要：Redis的源码编译安装；Redis的基础及存储；Redis一主多从的构建；Twemproxy方式集群的构建；Redis自带集群的构建；Redis集群的主从自动切换。¥ 39
+Filebeat+Redis+ELK6全实战视频教程https://edu.51cto.com/course/13193.html14课时37197实战教学结合轻量FILEBEAT和缓存REDIS来搭建实用的ELK日志分析平台。¥ 31
+企业级业务监控Influxdb+Grafana全实战视频教程https://edu.51cto.com/course/14575.html12课时26240Influxdb+Grafana组合监控的出现，让我们监控业务变得非常简单，只需要一个数字，就能够把业务的数据展现出来。本课程使用Python+Influxdb+Grafana的组合教大家如何快速监控公司的业务，课程全实战，帮学员快速掌握这个新的监控组合。要学此课程需要有Python基础。¥ 63
+企业级Mongodb数据库全实战视频教程（NOSQL、副本集、分片集群）https://edu.51cto.com/course/15479.html17课时13324本课程基于Centos7操作系统，讲述了MongoDB线上的部署、MongoDB的基础操作、MongoDB的副本集和MongoDB的分片集群的高级功能，通过本课程，学员能够轻松掌握MongoDB服务器的运维部署。¥ 39
+windows驱动开发进阶篇-内核安全视频课程https://edu.51cto.com/course/16405.html46课时3078深刻理解windows操作系统机制并掌握内核安全驱动开发方法，掌握windbg的一些高级用法¥ 366
+【曾贤志】从零基础开始用Python处理Excel数据 - 第1季 基础篇https://edu.51cto.com/course/16500.html89课时24198首先学习Python的基础知识，然后使用Python来控制Excel，做数据处理。¥ 79
+赵强老师：Weblogic从入门到精通：（二）高级篇https://edu.51cto.com/course/8340.html49课时13610本课程Weblogic Server 11g系列课程的第二门课程，讲述Weblogic Server的高级管理。主要包括：使用WLST、配置数据源、使用JMS消息服务、搭建Weblogic Server集群等内容。¥ 223
+VMware Horizon 7.6视频课程https://edu.51cto.com/course/15192.html31课时8185该视频主要的目标是掌握最新版本 vmware horizon 7.6 环境搭建与具体应用¥ 79
+2019系统集成项目管理工程师全套视频（中级）马军老师课程https://edu.51cto.com/course/14707.html59课时53882系统集成项目管理工程师是计算机软考的中级科目，具有很高的含金量。通过本考试者具有中级职称，对申请户口等有一定的帮助，另外，对大家的工作也有很大的帮助。 希望大家在马军老师的带领下，一次性通过本考试。¥ 79
+Excel企业实战与解决方案开发教程3—SQL篇https://edu.51cto.com/course/14061.html31课时59461系统全面地掌握Excel SQL的语法与用法；掌握用SQL解决各种Excel实际问题的方法（如动态图表）；了解一些特殊的甚至超越PowerQuery的Excel SQL用法；获得本讲师提供的实用工具¥ 119
+Excel企业实战与解决方案开发教程1—功能篇https://edu.51cto.com/course/13391.html27课时152051真正正确地掌握所有企业工作中有用的功能！了解目前Excel领域的几大误区！为后续高级课的学习和开发打下坚实基础！¥ 79
+Excel企业实战与解决方案开发教程2—公式篇https://edu.51cto.com/course/13838.html23课时77232系统完整地学会所有与公式有关的知识和实际应用技能；了解公式领域存在的大量误区；掌握新的更专业更正确的公式用法；为后续课程奠定好基础。¥ 79
+产品原型设计工具“墨刀”实战课程https://edu.51cto.com/course/6491.html10课时16890让学员熟练掌握使用当下最流行的在线原型设计工具——墨刀，能够使用“墨刀”制作出真正符合项目需要的产品界面原型，使项目团队、客户、老板之间能够达到有效沟通，保证项目进度的正常推进。¥ 4
+挑战万元高薪Java基础到框架全套视频第一部https://edu.51cto.com/course/10385.html88课时63454本套课程是从java基础开始讲解，一直深入到ssm、ssh框架部分，之后是通过ssm+maven+svn进行项目设计。如果学员能够坚持看完本套视频并且多加练习，挑战万元高薪是没有什么问题的。¥ 159
+挑战高薪-JAVA细分最全面试题全集https://edu.51cto.com/course/15247.html67课时9435问：一年的JAVA开发经验可否面试三年甚至五年的JAVA岗位？答：完全掌握本套面试题全集，没有任何问题。该套面试题，是近两年最新的面试题汇总，并且进行了细致的划分，能够使学习者更好的掌握JAVA面试的大型知识点以及细节知识点。挑战高年薪，只要你肯花时间学习理解本套课程，一定行。¥ 31
+Axure RP 8.0产品经理精品实战视频课程（操作篇）https://edu.51cto.com/course/8008.html28课时191166学员首先可以掌握什么是产品原型，在设计产品原型时把握产品的保真程度，掌握这些课前基础知识后，最主要的是可以熟练的使用Axure制作产品原型（包括低保真原型和可交互高保真原型），学员能够利用产品原型和各方人员沟通，确保产品方向的正确性，确保团队成员内部的交流无偏差，最终保证项目的顺利进行。¥ 7
+Java的数据结构与算法精讲（Part 1）https://edu.51cto.com/course/14684.html31课时25594本套课程适用于有Java基础的人群：1. 突破技术瓶颈。使用数据结构和算法进行优化程序, 可以使得你的程序运行的更快 ,并且占用更少的资源, 有益于开发大型程序 .高级工程师和普通工程师的区别，就在于高级工程师更懂数据的地层结构。2. 有意愿向大数据和算法转型。此课程为转型首选课程¥ 79
+企业级Docker入门实战视频教程 多进程容器https://edu.51cto.com/course/13207.html14课时15876通过本课程，可以掌握Docker的基础操作、批量管理Docker容器、使用Dockerfile构建各种自定义镜像及多进程容器的管理方法。本教程宿主系统使用Centos7。¥ 23
+Linux入门+Vim实战操作视频教程 基于Centos7https://edu.51cto.com/course/14499.html25课时25336基课程从vmware的安装讲起，通过vmware工具，讲解了Linux发行版本Centos7的安装，然后讲解了Centos的基础操作命令和比较常用的Linux基础知识，课堂上均有实践操作。通过对Linux的讲解和编辑器Vim的操作能够让学员快速掌握基本运维技能。¥ 15
+2018年8月最新RHCE300分解法视频课程QQ群号:793524131https://edu.51cto.com/course/14656.html43课时9177100%通过RHCE考试¥ 399
+2019年信息系统项目管理师（软考中高项）强化班+冲刺押题视频课程https://edu.51cto.com/course/11912.html62课时40132通过本课程的学习，以《信息系统项目管理师教程》（第3版）和新版考纲为依据，通过信息化基础知识模块、项目管理综合知识模块、计算题专题、法律法规模块、案例专项训练模块、论文模块、冲刺模块的学习，全面掌握高项的考核知识点。服务承诺：批改论文，押题重点，确保通过。考试未过，免费重修。¥ 1239
+VMware虚拟化技术从入门到精通视频课程https://edu.51cto.com/course/11979.html52课时19925服务器虚拟化技术 NSX网络虚拟化技术 VSAN存储虚拟化技术¥ 799
+RHCSA-RHCE模拟考试环境搭建和解法视频课程（22道题）QQ群：793524131https://edu.51cto.com/course/13677.html23课时11918通过本视频的学习，你能搭建起rhce认证模拟考试环境；通过我提供的资料搭建RHCE模拟考试环境掌握RHCE考试中每一道题的解法。¥ 79
+RedHat Linux 运维快速入门技术（RHEL 7.5）https://edu.51cto.com/course/13830.html91课时28158通过学习掌握Linux 运维常用的技术，目标如下： 1、为将来从事Linux系统运维打下扎实的技术基础（20个专题覆盖了Linux大部分常用必备技能） 2、为将来从事虚拟化或云计算技术打下扎实的技术基础 3、为从事系统集成的IT工程师作为必备的技术支撑¥ 111
+Ansible+Jenkins自动化可视化运维视频教程https://edu.51cto.com/course/13545.html18课时41555本课程基于Centos7系统，从Ansible的安装讲起，教学员一步步掌握Ansible、Ansible-playbook、Playbook-roles的使用。Ansible讲完后，从Jenkins的搭建开始讲解Jenkins，最后使用Jenkins实现了Ansible的可视化，每节课均是实战操作。¥ 31
+企业网络实战课程-终章 网络故障快速定位与排查[网络工程师]https://edu.51cto.com/course/16637.html12课时3371.帮助学员快速定位网络问题；2.强化学员的知识体系3.提高学员的实战能力¥ 238
+Mapgis6.7基础视频教程https://edu.51cto.com/course/14699.html59课时12775通过学习本视频教程快速掌握矢量化的一般流程、掌握MapGIS6.7软件各个功能模块的使用方法。¥ 95
+Openstack Rocky自动化部署提供OpenStack离线包以及CEPH 离线包视频课程https://edu.51cto.com/course/15596.html14课时4311讲解openstack开源社区最新版本R的部署，同时讲解了ceph集群操作以及OpenStack与CEPH对接。¥ 64
+windows wdm驱动程序开发视频课程（即插即用）https://edu.51cto.com/course/15379.html26课时3210从0开始实现一个完整的wdm驱动程序框架，以及安装文件inf。加深对windows操作系统的认识，掌握wdm驱动程序的开发过程。让驱动开发成为高级windows开发人员的一项重要技能。¥ 206
+图解Python视频教程（高级进阶篇）https://edu.51cto.com/course/15234.html71课时404051通过学习本套视频课程，希望能够帮助各位朋友再次进一步提高Python技能和水平，向Python高手和大牛的队伍迈进！¥ 134
+信息安全工程师精品视频教程https://edu.51cto.com/course/15781.html54课时30531、通过软考信息安全工程师考试。2、通过软考信息安全工程师考试。3、通过软考信息安全工程师考试。¥ 191
+CTF之Web安全入门（一）HTTP协议视频课程https://edu.51cto.com/course/16220.html20课时2941了解Web方向的CTF比赛解题思路，掌握HTTP协议相关题目的解题方法。¥ 71
+数据中心之基础设施层技术（VXLAN等）https://edu.51cto.com/course/16980.html45课时1363掌握云数据中心基础实施层相关核心技术¥ 149
+2019企业网络实战课程集锦[网络工程师]https://edu.51cto.com/course/16787.html120课时32471.帮助学员快速定位网络问题；2.强化学员的知识体系3.提高学员的实战能力¥ 1199
+Web攻防视频教程（致力于录制一套基础详细的Web安全视频教程）https://edu.51cto.com/course/14850.html143课时18721针对Web攻防展开介绍技术细节，讲解信息收集、Web脚本漏洞（SQL、XSS、SSRF、CSRF、命令执行等）。充分讲解一套完整充实的Web攻防课程，让学员知其然，也要知其所以然。学习QQ群：256572159 加入需验证51cto账号名称，否则不予通过。¥ 559
+网络安全训练营视频课程(使用电脑端打开查看完整图片大纲)持续更新中https://edu.51cto.com/course/16017.html90课时6212从零基础快速入门网路安全，一套课程带你掌握网络安全技术。侧重实际操作。¥ 479
+Centos7-Linux云计算集群架构师基础学习https://edu.51cto.com/course/14228.html99课时37751通过学习本课程，可以掌握 ：1、 让0基础学员能够掌握Linux技术，实现Linux 操作系统管理入门到精通； 2、 完全涵盖RHCE的知识点，同时还可以获得实际的企业工作经验；3、 让有基础的学员可以学会正则表达式，脚本编写升级为中级运维。¥ 238
+MYSQL主从复制偏运维全实战视频教程https://edu.51cto.com/course/15146.html12课时10257MYSQL主从复制是高级运维工程师、数据库管理员必备的知识，本课程通过实战让学员轻松掌握MYSQL主从复制的知识。¥ 39
+企业级Bash Shell脚本编程全实战视频教程https://edu.51cto.com/course/15965.html34课时4513高级运维人员必须掌握的知识：Bash Shell语法、正则表达式、三剑客¥ 47
+Excel企业实战系列6：数据整理类问题视频课程（多表多文件的）https://edu.51cto.com/course/15219.html15课时3263能独立解决企业工作中的各种Excel数据整理类问题（多表多文件的）¥ 119
+迈向高薪企业系列课程-有生命的企业网络实战课程（中）[网络工程师]https://edu.51cto.com/course/15719.html25课时6041.帮助学员认清学习网络的价值；2.强化学员的知识体系3.提高学员的实战能力，为获得企业高薪而奋斗¥ 318
+2019网络工程师入门CCNA 0基础学网络1次pass考试【内含课堂笔记与最新题库】https://edu.51cto.com/course/14847.html282课时62992新任帮主新版CCNA课程，旨在帮助每一位学员轻松入门IT网络之路，提升自身技能，一次PASS CCNA考试之路。¥ 799
+赵强老师：Weblogic从入门到精通：（一）基础篇https://edu.51cto.com/course/8193.html31课时20367本课程将向 WebLogic管理员培训安装和配置 Oracle WebLogic Server 11g。将详细介绍Weblogic Server的体系结构和组成,为后续继续学习Weblogic Server的高级管理课程奠定基础。¥ 127
+Web安全测试之SRC挖掘经验分享https://edu.51cto.com/course/16776.html24课时710具备web渗透测试工程师的工作水平； 能够挖掘各家SRC应急响应中心漏洞，凭借挖漏洞月收入过万。¥ 1600
+Excel企业实战系列4：实际问题篇概论https://edu.51cto.com/course/14542.html8课时20685掌握解决所有Excel问题的通用方法并在实际案例中理解这一方法；理解为什么对Excel的学习应按问题划分而不要按部门划分这一观点¥ 55
+Excel企业实战系列5：数据整理类问题（单表单文件的）https://edu.51cto.com/course/14937.html23课时9047能独立解决企业工作中的各种Excel数据整理类问题（单表单文件的）¥ 79
+企业级负载均衡+高可用性实战视频教程https://edu.51cto.com/course/16363.html23课时4027通过实战让学员轻松掌握负载均衡+高可用性的部署。¥ 39
+【徐葳】Flink进阶及实战（下）-2018年最新https://edu.51cto.com/course/15835.html56课时38621《Flink入门及实战》课程主要讲述了Flink实时框架的基本操作使用以及案例实战开发。¥ 287
+【徐葳】Flink入门及实战（上）-2018年最新https://edu.51cto.com/course/15285.html17课时24259《Flink入门及实战》课程主要讲述了Flink实时框架的基本操作使用以及案例实战开发。通过本课程的教学，使学生既能学习Flink的理论知识，也能掌握Flink的实战内容。为后期工作中的实时处理业务提供多一种技术选择。¥ 47
+企业级Zabbix3.4+Grafana5.1全实战视频教程https://edu.51cto.com/course/13444.html28课时41538本课程基于Centos7系统，从LNMP的源码安装开始教学，一步步的搭建起Zabbix监控系统。搭建完成后，实战了Zabbix邮件、微信、钉钉告警，使用自定义脚本监控LNMP各组件的运行情况。最后实战了Zabbix的难点部分：自动发现监控Mysql、JMX监控TOMCAT、分布式监控、主机自动注册。¥ 119
+Redis4.0基础+主从+集群偏运维全实战视频教程https://edu.51cto.com/course/13809.html20课时17583本课程基于Centos7系统，讲解了Redis运维中比较难的操作，让学员能够轻松掌握Redis的运维操作。讲解的概要：Redis的源码编译安装；Redis的基础及存储；Redis一主多从的构建；Twemproxy方式集群的构建；Redis自带集群的构建；Redis集群的主从自动切换。¥ 39
+Filebeat+Redis+ELK6全实战视频教程https://edu.51cto.com/course/13193.html14课时37197实战教学结合轻量FILEBEAT和缓存REDIS来搭建实用的ELK日志分析平台。¥ 31
+企业级业务监控Influxdb+Grafana全实战视频教程https://edu.51cto.com/course/14575.html12课时26240Influxdb+Grafana组合监控的出现，让我们监控业务变得非常简单，只需要一个数字，就能够把业务的数据展现出来。本课程使用Python+Influxdb+Grafana的组合教大家如何快速监控公司的业务，课程全实战，帮学员快速掌握这个新的监控组合。要学此课程需要有Python基础。¥ 63
+企业级Mongodb数据库全实战视频教程（NOSQL、副本集、分片集群）https://edu.51cto.com/course/15479.html17课时13324本课程基于Centos7操作系统，讲述了MongoDB线上的部署、MongoDB的基础操作、MongoDB的副本集和MongoDB的分片集群的高级功能，通过本课程，学员能够轻松掌握MongoDB服务器的运维部署。¥ 39
+windows驱动开发进阶篇-内核安全视频课程https://edu.51cto.com/course/16405.html46课时3078深刻理解windows操作系统机制并掌握内核安全驱动开发方法，掌握windbg的一些高级用法¥ 366
+【曾贤志】从零基础开始用Python处理Excel数据 - 第1季 基础篇https://edu.51cto.com/course/16500.html89课时24198首先学习Python的基础知识，然后使用Python来控制Excel，做数据处理。¥ 79
+赵强老师：Weblogic从入门到精通：（二）高级篇https://edu.51cto.com/course/8340.html49课时13610本课程Weblogic Server 11g系列课程的第二门课程，讲述Weblogic Server的高级管理。主要包括：使用WLST、配置数据源、使用JMS消息服务、搭建Weblogic Server集群等内容。¥ 223
+VMware Horizon 7.6视频课程https://edu.51cto.com/course/15192.html31课时8185该视频主要的目标是掌握最新版本 vmware horizon 7.6 环境搭建与具体应用¥ 79
+2019系统集成项目管理工程师全套视频（中级）马军老师课程https://edu.51cto.com/course/14707.html59课时53882系统集成项目管理工程师是计算机软考的中级科目，具有很高的含金量。通过本考试者具有中级职称，对申请户口等有一定的帮助，另外，对大家的工作也有很大的帮助。 希望大家在马军老师的带领下，一次性通过本考试。¥ 79
+Excel企业实战与解决方案开发教程3—SQL篇https://edu.51cto.com/course/14061.html31课时59461系统全面地掌握Excel SQL的语法与用法；掌握用SQL解决各种Excel实际问题的方法（如动态图表）；了解一些特殊的甚至超越PowerQuery的Excel SQL用法；获得本讲师提供的实用工具¥ 119
+Excel企业实战与解决方案开发教程1—功能篇https://edu.51cto.com/course/13391.html27课时152051真正正确地掌握所有企业工作中有用的功能！了解目前Excel领域的几大误区！为后续高级课的学习和开发打下坚实基础！¥ 79
+Excel企业实战与解决方案开发教程2—公式篇https://edu.51cto.com/course/13838.html23课时77232系统完整地学会所有与公式有关的知识和实际应用技能；了解公式领域存在的大量误区；掌握新的更专业更正确的公式用法；为后续课程奠定好基础。¥ 79
+产品原型设计工具“墨刀”实战课程https://edu.51cto.com/course/6491.html10课时16890让学员熟练掌握使用当下最流行的在线原型设计工具——墨刀，能够使用“墨刀”制作出真正符合项目需要的产品界面原型，使项目团队、客户、老板之间能够达到有效沟通，保证项目进度的正常推进。¥ 4
+挑战万元高薪Java基础到框架全套视频第一部https://edu.51cto.com/course/10385.html88课时63454本套课程是从java基础开始讲解，一直深入到ssm、ssh框架部分，之后是通过ssm+maven+svn进行项目设计。如果学员能够坚持看完本套视频并且多加练习，挑战万元高薪是没有什么问题的。¥ 159
+挑战高薪-JAVA细分最全面试题全集https://edu.51cto.com/course/15247.html67课时9435问：一年的JAVA开发经验可否面试三年甚至五年的JAVA岗位？答：完全掌握本套面试题全集，没有任何问题。该套面试题，是近两年最新的面试题汇总，并且进行了细致的划分，能够使学习者更好的掌握JAVA面试的大型知识点以及细节知识点。挑战高年薪，只要你肯花时间学习理解本套课程，一定行。¥ 31
+Axure RP 8.0产品经理精品实战视频课程（操作篇）https://edu.51cto.com/course/8008.html28课时191166学员首先可以掌握什么是产品原型，在设计产品原型时把握产品的保真程度，掌握这些课前基础知识后，最主要的是可以熟练的使用Axure制作产品原型（包括低保真原型和可交互高保真原型），学员能够利用产品原型和各方人员沟通，确保产品方向的正确性，确保团队成员内部的交流无偏差，最终保证项目的顺利进行。¥ 7
+Java的数据结构与算法精讲（Part 1）https://edu.51cto.com/course/14684.html31课时25594本套课程适用于有Java基础的人群：1. 突破技术瓶颈。使用数据结构和算法进行优化程序, 可以使得你的程序运行的更快 ,并且占用更少的资源, 有益于开发大型程序 .高级工程师和普通工程师的区别，就在于高级工程师更懂数据的地层结构。2. 有意愿向大数据和算法转型。此课程为转型首选课程¥ 79
+企业级Docker入门实战视频教程 多进程容器https://edu.51cto.com/course/13207.html14课时15876通过本课程，可以掌握Docker的基础操作、批量管理Docker容器、使用Dockerfile构建各种自定义镜像及多进程容器的管理方法。本教程宿主系统使用Centos7。¥ 23
+Linux入门+Vim实战操作视频教程 基于Centos7https://edu.51cto.com/course/14499.html25课时25336基课程从vmware的安装讲起，通过vmware工具，讲解了Linux发行版本Centos7的安装，然后讲解了Centos的基础操作命令和比较常用的Linux基础知识，课堂上均有实践操作。通过对Linux的讲解和编辑器Vim的操作能够让学员快速掌握基本运维技能。¥ 15
+2018年8月最新RHCE300分解法视频课程QQ群号:793524131https://edu.51cto.com/course/14656.html43课时9177100%通过RHCE考试¥ 399
+2019年信息系统项目管理师（软考中高项）强化班+冲刺押题视频课程https://edu.51cto.com/course/11912.html62课时40132通过本课程的学习，以《信息系统项目管理师教程》（第3版）和新版考纲为依据，通过信息化基础知识模块、项目管理综合知识模块、计算题专题、法律法规模块、案例专项训练模块、论文模块、冲刺模块的学习，全面掌握高项的考核知识点。服务承诺：批改论文，押题重点，确保通过。考试未过，免费重修。¥ 1239
+VMware虚拟化技术从入门到精通视频课程https://edu.51cto.com/course/11979.html52课时19925服务器虚拟化技术 NSX网络虚拟化技术 VSAN存储虚拟化技术¥ 799
+RHCSA-RHCE模拟考试环境搭建和解法视频课程（22道题）QQ群：793524131https://edu.51cto.com/course/13677.html23课时11918通过本视频的学习，你能搭建起rhce认证模拟考试环境；通过我提供的资料搭建RHCE模拟考试环境掌握RHCE考试中每一道题的解法。¥ 79
+RedHat Linux 运维快速入门技术（RHEL 7.5）https://edu.51cto.com/course/13830.html91课时28158通过学习掌握Linux 运维常用的技术，目标如下： 1、为将来从事Linux系统运维打下扎实的技术基础（20个专题覆盖了Linux大部分常用必备技能） 2、为将来从事虚拟化或云计算技术打下扎实的技术基础 3、为从事系统集成的IT工程师作为必备的技术支撑¥ 111
+Ansible+Jenkins自动化可视化运维视频教程https://edu.51cto.com/course/13545.html18课时41555本课程基于Centos7系统，从Ansible的安装讲起，教学员一步步掌握Ansible、Ansible-playbook、Playbook-roles的使用。Ansible讲完后，从Jenkins的搭建开始讲解Jenkins，最后使用Jenkins实现了Ansible的可视化，每节课均是实战操作。¥ 31
+企业网络实战课程-终章 网络故障快速定位与排查[网络工程师]https://edu.51cto.com/course/16637.html12课时3371.帮助学员快速定位网络问题；2.强化学员的知识体系3.提高学员的实战能力¥ 238
+Mapgis6.7基础视频教程https://edu.51cto.com/course/14699.html59课时12775通过学习本视频教程快速掌握矢量化的一般流程、掌握MapGIS6.7软件各个功能模块的使用方法。¥ 95
+Openstack Rocky自动化部署提供OpenStack离线包以及CEPH 离线包视频课程https://edu.51cto.com/course/15596.html14课时4311讲解openstack开源社区最新版本R的部署，同时讲解了ceph集群操作以及OpenStack与CEPH对接。¥ 64
+windows wdm驱动程序开发视频课程（即插即用）https://edu.51cto.com/course/15379.html26课时3210从0开始实现一个完整的wdm驱动程序框架，以及安装文件inf。加深对windows操作系统的认识，掌握wdm驱动程序的开发过程。让驱动开发成为高级windows开发人员的一项重要技能。¥ 206
+图解Python视频教程（高级进阶篇）https://edu.51cto.com/course/15234.html71课时404051通过学习本套视频课程，希望能够帮助各位朋友再次进一步提高Python技能和水平，向Python高手和大牛的队伍迈进！¥ 134
+信息安全工程师精品视频教程https://edu.51cto.com/course/15781.html54课时30531、通过软考信息安全工程师考试。2、通过软考信息安全工程师考试。3、通过软考信息安全工程师考试。¥ 191
+CTF之Web安全入门（一）HTTP协议视频课程https://edu.51cto.com/course/16220.html20课时2941了解Web方向的CTF比赛解题思路，掌握HTTP协议相关题目的解题方法。¥ 71
