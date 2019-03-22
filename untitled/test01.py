@@ -6,6 +6,7 @@
 import socket
 
 s=socket.socket()
+
 host=socket.gethostname()
 port=3456
 s.connect((host,port))

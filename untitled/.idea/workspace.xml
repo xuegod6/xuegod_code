@@ -2,541 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7005f865-fbaa-4d2c-839a-3b09d99e214c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../02_spider_day02/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../03_实训课第三天/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/01_isinstance_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/01_ziP_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/02_iter_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/03_bnum_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/imp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/imp/imp_test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../04_实训课/test02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/01_file_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/01_seek_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/01_unicode_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/02_with_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/03_try_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../05_实训课第五讲/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/01_smtp_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/02_html_smtp_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/03_image_smtp_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2019_3_19_public_test/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test01/01_type_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xuegod3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xuegod4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xuegod4/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../xuegod4/templates/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_spider_day02/03_51CTO_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../02_spider_day02/03_51CTO_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_spider_day02/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../02_spider_day02/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_spider_day03/01_知乎图片爬取_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../03_spider_day03/01_知乎图片爬取_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_10_public_test/.idea/2019_1_10_public_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_10_public_test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_10_public_test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_10_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_10_public_test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_10_public_test/01_360_spider_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_10_public_test/02_baidu_spider_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_10_public_test/03_bilibili_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_10_public_test/04_360_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_10_public_test/05_baidu_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_10_public_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_12_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_12_public_test/01_baidu_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_12_public_test/02_baisi_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_12_public_test/03_bes_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_12_public_test/04_baidu_com_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_14_pub_test/.idea/2019_1_14_pub_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_14_pub_test/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_14_pub_test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_14_pub_test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_14_pub_test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_14_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_14_public_test/02_seleium_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_14_public_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_16_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_16_public_test/01_thread_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_16_public_test/02_河南人口.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_16_public_test/03_全国gdp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_16_public_test/04_tcp_client_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_16_public_test/04_tcp_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_16_public_test/05_bar_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_16_public_test/06_shizhn_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_16_public_test/static/china_gdp.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_16_public_test/static/people_num.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_19_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_19_public_test/01_open_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_19_public_test/02_wirte_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_19_public_test/03_xlsx_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_19_public_test/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_19_public_test/by.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_19_public_test/cpuinfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_19_public_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_19_public_test/text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_23_pub_test/.idea/2019_1_23_pub_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_23_pub_test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_23_pub_test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_23_pub_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_23_pub_test/01_emain_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_23_pub_test/02_email_html_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_23_pub_test/03_part_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_23_pub_test/1.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_28_pub_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_28_pub_test/01_bibao_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_28_pub_test/02_dec_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_28_pub_test/03_shizhan_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_28_pub_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_29_pub_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_29_pub_test/01_iter_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_29_pub_test/02_yield_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_29_pub_test/03_zip_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_2_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_2_public_test/01_two_dec_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_2_public_test/02_bibao_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_2_public_test/03_func_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_2_public_test/04_login_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_2_public_test/05_chuancan_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_2_public_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/01_bibao_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/01_email_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/01_pymysql_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/01_yield_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/02_dec_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/02_greenlet_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/02_html_email_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/03_gevent_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/03_shizhan_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/04_down_image_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/05_360_image_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_30_pub_test/test1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_9_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_9_public_test/01_iter_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_9_public_test/02_yield_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_9_public_test/03_zip_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_9_public_test/04_jiandan_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_9_public_test/05_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_9_public_test/06_rhce_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_9_public_test/q.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_1_9_public_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_19_public_test/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_19_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_19_public_test/01_dingding_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_19_public_test/01_itet_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_19_public_test/01_poem_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_19_public_test/02_dingding_link_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_19_public_test/02_word_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_19_public_test/02_yield_Test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_19_public_test/03_zip_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_19_public_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_19_public_test/test02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/01_api_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/01_client_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/01_iter_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/01_tcp_server.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/02_process_server.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/02_pyttsx3_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/02_yield_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/03_thread_server.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/03_voice_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/03_zip_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/04_filr_read_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/05_urllib_Test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_22_public_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_25_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_25_public_test/01_bilibili_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_25_public_test/02_360_image_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_25_public_test/03_baidu_image_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_25_public_test/04_360_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_25_public_test/05_baidu_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/01_bs_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/02_download_music.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/02_word_cloud_test'.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/03_poem_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/04_word_coliud_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/mp3_down.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/mp3_down/A-Lin-幸福了 然后呢.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/mp3_down/A-Lin-拿走了什么.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/mp3_down/Ariana Grande-7 rings.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/mp3_down/CADY耳东-山海（Cover：草东没有派对）.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/mp3_down/Charli XCX&amp;Troye Sivan-1999.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/mp3_down/GLOCK幺七-何必等待.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/mp3_down/Justin Bieber-Love Yourself.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/mp3_down/Lil Ghost小鬼-Unicorn.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/mp3_down/gnash&amp;Olivia O'Brien-i hate u i love u.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_26_pub_lic/单个网易云音乐.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/.idea/2019_2_27_public_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/01_pil_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/01_pip_test0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/02_urllib_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/03_pinjie_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/lyf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01971.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01972.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01973.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01974.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01975.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01976.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01983.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01984.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01985.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01986.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01987.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01988.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01989.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01990.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01991.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01992.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01993.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01994.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01995.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01996.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01997.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01998.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC01999.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02001.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02038.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02039.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02040.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02041.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02042.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02043.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02044.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02045.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02046.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02047.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02048.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02049.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02050.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02051.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02052.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02053.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02054.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02055.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02056.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02058.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02059.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02060.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02061.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02062.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02063.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02064.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02065.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02066.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02067.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02068.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02069.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02070.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02071.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02072.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02073.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02074.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02075.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02076.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02077.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02078.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02079.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02080.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02081.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02082.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02083.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02084.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02085.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02086.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02087.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02088.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02089.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02090.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02091.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02092.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02093.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02094.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02095.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02096.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02097.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02098.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02099.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02100.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02101.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02102.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02103.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02104.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02105.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02106.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02107.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02108.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02109.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02110.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02111.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02112.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02113.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02114.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02115.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02116.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02117.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02118.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02119.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02120.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02121.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02122.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02123.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02124.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02125.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02126.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02127.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02128.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02129.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/DSC02130.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_133305.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_144827.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_144921.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_145020.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_145245.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_145928.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_150049.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_150207.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_151357.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_151400.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_151452.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_151542.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_151600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_151613.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_151719.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152712.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152721.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152723.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152731.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152739.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152806.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152814.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152823.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152837.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152852.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152856.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152903.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152910.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152931.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_152943.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153004.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153008.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153026.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153051.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153054.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153132.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153135.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153214.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153329.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_153356.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154133.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154136.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154149.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154211.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154702.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154838.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154845.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154852.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154935.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_154942.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_155304.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_155313.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_155327.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_155841.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_155847.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_160009.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_160012.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_160016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_160038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_160636.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_160644.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_160814.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_161125.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_161224.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_161238.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_163347.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_163423.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_163625.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_163634.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_164937.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_165450.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_165712.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_165717.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_170032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_170704.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_170720.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120711_172415.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_101412.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_102209.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_102409.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_103327.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_103506.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_105219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_105708.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_105848.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_105859.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_110032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_110038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_110041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/photos/IMG_20120712_110050.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/test01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_27_public_test/xml2ass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/.idea/2019_2_3_public_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/01_wordcloud_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/02_shizhan_spaider_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/03_360_spider_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/04_image_spide_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/05_baid_spide_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/stopwords.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2019_2_3_public_test/zhongwen.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Juejin/Juejin/spiders/juejin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Juejin/Juejin/spiders/juejin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mySpider/gaokao.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/gaokao.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mySpider/mySpider/spiders/gaokao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mySpider/mySpider/spiders/gaokao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/.idea/public_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/01_read_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/01_zip_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/01_zipfile_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/02-requests-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/02_zipfile_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/03-email-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/04-send_emain.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/05-email_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/06-send-iamges-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/07-bibao_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/07_zhuanshi_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/08-dec_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/09_bibao_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/10_global_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/11-dec_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/12-paramike-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/13-xlsx-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/14-add_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/15_chart_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/16-xlsx_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/17_sheet-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/18-chart_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/19-shizhan-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/21-pil_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/22-yanzhengma _test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/23-shizan-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/01-difflib-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/02-diff-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/03-pycutl-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/04-rrdtool-test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/diff.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/auto_operation/insex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/bar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/chart.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/cnword.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/18.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/image/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/line.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/provinces_gdp.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/provinces_population.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/render.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/static/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/static/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/static/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/static/aaa.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/static/chart.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/static/demo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/static/demo.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/static/demo1.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/static/peijine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test_01/.idea/public_test_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/.idea/public_test_01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test_01/02_reauesgts_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/02_reauesgts_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test_01/render.html" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/render.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../public_test_01/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../public_test_01/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/.idea/so_image.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/scrapy.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/so_image/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/so_image/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/so_image/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/so_image/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/so_image/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/so_image/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../so_image/so_image/spiders/images.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xuegod1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xuegod1/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/perlin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/three.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xuegod1/static/js/vector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xuegod1/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xuegod1/templates/insex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../xuegod1/templates/test.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_tuling_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aiss-spider" beforeDir="false" afterPath="$PROJECT_DIR$/../aiss-spider" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/test01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -545,8 +13,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/untitled$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1553170827359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1553170823589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$test01.coverage" NAME="test01 Coverage Results" MODIFIED="1553222291224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$01_tuling_test.coverage" NAME="01_tuling_test Coverage Results" MODIFIED="1553222259302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1553222283351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
@@ -559,30 +28,31 @@
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.64" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="280" />
+          <entry key="py" value="358" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="280" />
+          <entry key="Python" value="358" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="py" value="4" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="Python" value="4" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -598,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="108">
+              <caret line="4" selection-start-line="4" selection-end-line="33" />
               <folding>
                 <element signature="e#92#105#0" expanded="true" />
               </folding>
@@ -611,10 +81,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_tuling_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding>
+                <element signature="e#123#149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            <state relative-caret-position="110">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -639,8 +121,9 @@
         <option value="$PROJECT_DIR$/untitled/urls.py" />
         <option value="$PROJECT_DIR$/templates/weather.html" />
         <option value="$PROJECT_DIR$/weather/views.py" />
-        <option value="$PROJECT_DIR$/test01.py" />
+        <option value="$PROJECT_DIR$/01_tuling_test.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test01.py" />
       </list>
     </option>
   </component>
@@ -651,8 +134,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="297" />
-    <option name="y" value="16" />
+    <option name="x" value="223" />
+    <option name="y" value="6" />
     <option name="width" value="1051" />
     <option name="height" value="701" />
   </component>
@@ -664,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -686,6 +168,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -707,7 +190,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.test01">
+    <configuration name="01_tuling_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_tuling_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -780,11 +285,13 @@
       <item itemvalue="Django server.untitled" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.test01" />
+      <item itemvalue="Python.01_tuling_test" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.test01" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.01_tuling_test" />
       </list>
     </recent_temporary>
   </component>
@@ -802,14 +309,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="297" y="16" width="1051" height="701" extended-state="0" />
+    <frame x="223" y="6" width="1051" height="701" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14530776" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14833501" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4585538" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4303351" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -887,20 +395,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="33" />
           <folding>
             <element signature="e#92#105#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_tuling_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="e#123#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
