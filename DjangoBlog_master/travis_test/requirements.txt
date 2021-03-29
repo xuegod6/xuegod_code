@@ -28,7 +28,7 @@ olefile==0.46
 packaging==18.0
 Pillow==5.3.0
 pycparser==2.19
-Pygments==2.3.0
+Pygments==2.7.4
 pylint==2.2.2
 PyMySQL==0.9.2
 pyparsing==2.3.0
